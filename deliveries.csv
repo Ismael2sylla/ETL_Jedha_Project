@@ -1,0 +1,1001 @@
+Delivery_ID,Pickup_DateTime,Weekday,Hour,Package_Type,Distance,Delivery_Zone,Weather_Condition,Actual_Delivery_Time,Status
+1,2025-04-10 10:56:39,Thursday,10,X-Large,18.55,Suburban,Windy,48.59,On-time
+2,2025-02-19 20:27:00,Wednesday,20,Large,31.46,Urban,Rainy,62.67,On-time
+3,2025-02-08 09:54:54,Saturday,9,Medium,38.14,Shopping Center,Cloudy,79.19,On-time
+4,2025-03-27 07:51:35,Thursday,7,Special,21.29,Shopping Center,Foggy,57.49,On-time
+5,2025-03-21 15:08:48,Friday,15,Medium,37.28,Industrial,Sunny,84.49,Delayed
+6,2025-04-04 01:47:23,Friday,1,X-Large,22.2,Urban,Windy,62.55,On-time
+7,2025-03-17 08:32:11,Monday,8,Medium,38.87,Shopping Center,Cloudy,73.3,On-time
+8,2025-03-24 11:13:43,Monday,11,Large,19.95,Shopping Center,Cloudy,48.22,On-time
+9,2025-01-18 08:45:02,Saturday,8,Small,7.68,Urban,Windy,38.02,On-time
+10,2025-01-24 05:17:10,Friday,5,Medium,19.15,Urban,Snowy,49.01,On-time
+11,2025-02-13 13:43:17,Thursday,13,Medium,9.53,Rural,Windy,43.25,On-time
+12,2025-03-15 03:36:54,Saturday,3,Special,13.97,Rural,Rainy,43.14,On-time
+13,2025-02-03 17:59:58,Monday,17,Medium,8.98,Suburban,Windy,42.86,On-time
+14,2025-03-19 23:15:01,Wednesday,23,Special,41.15,Urban,Cloudy,78.2,On-time
+15,2025-02-26 01:55:55,Wednesday,1,Medium,29.27,Urban,Cloudy,64.65,On-time
+16,2025-02-25 10:30:49,Tuesday,10,Medium,21.31,Rural,Cloudy,59.67,On-time
+17,2025-02-25 01:55:05,Tuesday,1,Special,31.22,Urban,Windy,71.51,On-time
+18,2025-01-24 09:21:14,Friday,9,Large,29.87,Rural,Rainy,63.02,On-time
+19,2025-01-30 08:15:53,Thursday,8,Medium,23.52,Shopping Center,Cloudy,49.08,On-time
+20,2025-04-05 01:29:05,Saturday,1,Large,4.81,Shopping Center,Sunny,34.94,On-time
+21,2025-03-31 15:51:59,Monday,15,Large,37.59,Urban,Cloudy,82.77,On-time
+22,2025-03-19 02:29:16,Wednesday,2,Large,41.91,Industrial,Sunny,87.73,On-time
+23,2025-03-15 06:04:30,Saturday,6,Medium,11.37,Rural,Rainy,44.21,On-time
+24,2025-01-27 16:18:32,Monday,16,Large,6.85,Shopping Center,Sunny,37.91,On-time
+25,2025-03-19 00:19:17,Wednesday,0,X-Large,14.6,Shopping Center,Sunny,50.85,On-time
+26,2025-02-17 00:00:45,Monday,0,X-Large,21.81,Urban,Sunny,48.45,On-time
+27,2025-03-14 06:36:06,Friday,6,Small,46.43,Suburban,Cloudy,88.11,Delayed
+28,2025-03-12 23:13:30,Wednesday,23,Small,6.9,Urban,Cloudy,38.79,On-time
+29,2025-01-26 07:59:58,Sunday,7,Small,47.83,Suburban,Rainy,70.82,On-time
+30,2025-03-02 05:14:59,Sunday,5,Large,26.75,Urban,Rainy,55.37,On-time
+31,2025-03-17 00:58:35,Monday,0,Large,30.16,Urban,Rainy,65.68,On-time
+32,2025-03-02 20:32:17,Sunday,20,Large,43.48,Industrial,Windy,93.07,On-time
+33,2025-04-03 23:27:17,Thursday,23,Medium,15.2,Industrial,Sunny,43.08,On-time
+34,2025-03-22 21:51:53,Saturday,21,Medium,10.31,Rural,Windy,41.54,On-time
+35,2025-04-05 20:42:57,Saturday,20,Medium,11.4,Rural,Cloudy,40.32,On-time
+36,2025-01-24 02:41:14,Friday,2,Medium,46.17,Suburban,Snowy,67.95,On-time
+37,2025-02-13 10:10:55,Thursday,10,Small,20.33,Shopping Center,Sunny,53.75,On-time
+38,2025-02-28 17:26:35,Friday,17,Small,44.95,Suburban,Sunny,83.54,Delayed
+39,2025-01-27 18:20:11,Monday,18,Medium,48.94,Industrial,Sunny,80.05,On-time
+40,2025-03-16 06:11:25,Sunday,6,Large,9.92,Industrial,Rainy,41.07,On-time
+41,2025-04-08 09:37:34,Tuesday,9,Large,4.43,Rural,Rainy,34.31,On-time
+42,2025-03-24 06:23:03,Monday,6,Medium,24.48,Suburban,Cloudy,51.63,On-time
+43,2025-03-28 16:28:41,Friday,16,Large,10.14,Urban,Windy,41.93,On-time
+44,2025-02-14 18:53:48,Friday,18,Large,29.76,Suburban,Cloudy,55.69,On-time
+45,2025-03-18 12:09:35,Tuesday,12,Medium,7.79,Suburban,Rainy,37.49,On-time
+46,2025-02-18 08:14:20,Tuesday,8,Medium,32.05,Suburban,Cloudy,58.26,On-time
+47,2025-01-23 00:43:55,Thursday,0,Medium,26.17,Shopping Center,Sunny,62.49,On-time
+48,2025-04-11 09:18:45,Friday,9,Large,7.78,Shopping Center,Cloudy,36.46,On-time
+49,2025-01-21 08:53:09,Tuesday,8,Large,7.81,Shopping Center,Cloudy,40.62,On-time
+50,2025-02-07 04:34:52,Friday,4,Medium,25.47,Shopping Center,Rainy,60.18,On-time
+51,2025-03-13 23:24:04,Thursday,23,Small,27.95,Industrial,Rainy,70.13,Delayed
+52,2025-02-12 17:56:24,Wednesday,17,Small,2.46,Industrial,Foggy,32.94,On-time
+53,2025-01-25 12:33:17,Saturday,12,Small,12.19,Shopping Center,Windy,45.5,On-time
+54,2025-03-21 02:47:09,Friday,2,Large,23.81,Urban,Windy,61.12,On-time
+55,2025-02-23 09:05:28,Sunday,9,Medium,37.81,Industrial,Sunny,78.69,Delayed
+56,2025-03-19 18:36:01,Wednesday,18,Medium,4.96,Suburban,Sunny,36.45,On-time
+57,2025-03-26 20:20:24,Wednesday,20,X-Large,12.77,Shopping Center,Cloudy,40.45,On-time
+58,2025-03-08 03:15:21,Saturday,3,Small,12.24,Urban,Cloudy,44.44,On-time
+59,2025-01-20 05:53:44,Monday,5,Small,46.15,Industrial,Cloudy,98.45,Delayed
+60,2025-02-15 22:42:07,Saturday,22,Medium,20.85,Suburban,Sunny,59.59,On-time
+61,2025-04-08 07:17:35,Tuesday,7,Special,8.93,Shopping Center,Sunny,42.05,On-time
+62,2025-02-26 13:12:46,Wednesday,13,Medium,22.88,Suburban,Sunny,63.89,On-time
+63,2025-03-03 10:01:15,Monday,10,Small,36.56,Suburban,Rainy,84.01,On-time
+64,2025-01-31 20:17:03,Friday,20,X-Large,45.55,Suburban,Rainy,69.89,On-time
+65,2025-03-26 22:27:42,Wednesday,22,Small,27.21,Suburban,Windy,64.59,On-time
+66,2025-04-14 04:35:35,Monday,4,Medium,6.48,Industrial,Sunny,39.22,On-time
+67,2025-03-04 01:45:33,Tuesday,1,Small,4.73,Suburban,Cloudy,37.09,On-time
+68,2025-03-29 02:10:12,Saturday,2,Medium,30.9,Industrial,Windy,60.23,On-time
+69,2025-03-25 12:04:45,Tuesday,12,X-Large,1.39,Urban,Rainy,31.64,On-time
+70,2025-02-16 09:39:02,Sunday,9,Medium,11.02,Industrial,Sunny,43.41,On-time
+71,2025-04-14 06:26:59,Monday,6,Medium,13.1,Industrial,Rainy,46.12,On-time
+72,2025-04-02 16:29:02,Wednesday,16,Large,24.35,Shopping Center,Rainy,62.9,On-time
+73,2025-03-01 17:01:25,Saturday,17,Medium,43.71,Urban,Rainy,84.54,On-time
+74,2025-01-22 02:04:11,Wednesday,2,Small,31.54,Shopping Center,Cloudy,66.16,On-time
+75,2025-04-10 10:17:15,Thursday,10,Large,48.71,Suburban,Windy,70.42,On-time
+76,2025-04-14 17:42:00,Monday,17,Large,40.66,Urban,Sunny,72.15,On-time
+77,2025-03-17 07:28:23,Monday,7,Medium,33.09,Rural,Sunny,60.16,On-time
+78,2025-02-28 01:16:58,Friday,1,Medium,7.43,Shopping Center,Windy,40.53,On-time
+79,2025-03-09 03:26:43,Sunday,3,Large,28.61,Shopping Center,Foggy,66.45,On-time
+80,2025-02-17 02:56:52,Monday,2,Medium,27.94,Urban,Sunny,55.52,On-time
+81,2025-03-06 10:52:00,Thursday,10,Medium,7.87,Urban,Cloudy,37.82,On-time
+82,2025-01-23 23:20:09,Thursday,23,Large,23.86,Industrial,Sunny,61.25,On-time
+83,2025-03-01 09:07:11,Saturday,9,Special,8.7,Urban,Rainy,38.87,On-time
+84,2025-03-19 08:34:23,Wednesday,8,Large,23.99,Shopping Center,Cloudy,63.63,On-time
+85,2025-04-02 04:32:34,Wednesday,4,Medium,30.81,Urban,Sunny,54.96,On-time
+86,2025-01-27 21:04:21,Monday,21,Small,41.92,Urban,Rainy,87.9,On-time
+87,2025-03-23 09:03:43,Sunday,9,Medium,46.5,Shopping Center,Sunny,69.39,On-time
+88,2025-02-20 06:59:34,Thursday,6,Small,23.52,Shopping Center,Snowy,50.95,On-time
+89,2025-02-11 08:04:03,Tuesday,8,Medium,20.58,Shopping Center,Sunny,48.34,On-time
+90,2025-03-10 22:22:00,Monday,22,Large,18.85,Urban,Windy,56.37,On-time
+91,2025-02-03 18:11:53,Monday,18,Special,19.56,Shopping Center,Windy,51.06,On-time
+92,2025-03-17 15:13:50,Monday,15,Medium,21.64,Rural,Cloudy,58.87,On-time
+93,2025-04-08 12:16:11,Tuesday,12,Special,5.59,Suburban,Cloudy,36.24,On-time
+94,2025-04-04 08:08:27,Friday,8,Small,41.0,Suburban,Windy,67.03,On-time
+95,2025-04-11 00:01:28,Friday,0,X-Large,2.85,Shopping Center,Windy,33.39,On-time
+96,2025-02-15 12:46:03,Saturday,12,Medium,38.09,Suburban,Cloudy,79.83,On-time
+97,2025-03-12 05:28:12,Wednesday,5,Medium,13.46,Urban,Sunny,45.94,On-time
+98,2025-02-17 13:52:20,Monday,13,X-Large,18.87,Urban,Windy,54.66,On-time
+99,2025-02-14 06:48:05,Friday,6,Small,19.85,Shopping Center,Rainy,52.55,On-time
+100,2025-04-14 13:25:01,Monday,13,Large,33.72,Shopping Center,Sunny,61.61,On-time
+101,2025-03-05 08:12:38,Wednesday,8,Small,34.23,Industrial,Rainy,61.34,On-time
+102,2025-02-03 02:53:31,Monday,2,Small,21.62,Suburban,Foggy,50.74,On-time
+103,2025-02-11 14:55:46,Tuesday,14,Small,32.79,Rural,Windy,60.12,On-time
+104,2025-03-22 02:56:31,Saturday,2,Special,29.63,Rural,Sunny,59.4,On-time
+105,2025-02-03 01:57:39,Monday,1,Medium,49.85,Industrial,Foggy,79.42,On-time
+106,2025-02-02 11:09:52,Sunday,11,Large,19.0,Shopping Center,Sunny,55.34,On-time
+107,2025-03-31 02:57:12,Monday,2,Medium,3.75,Urban,Sunny,33.08,On-time
+108,2025-02-05 11:39:14,Wednesday,11,Small,39.73,Industrial,Rainy,71.18,On-time
+109,2025-03-13 16:45:23,Thursday,16,Small,36.86,Rural,Sunny,75.73,On-time
+110,2025-02-14 03:30:50,Friday,3,Large,43.53,Suburban,Rainy,93.95,On-time
+111,2025-03-14 00:50:18,Friday,0,Small,10.77,Shopping Center,Sunny,45.34,On-time
+112,2025-02-24 06:31:41,Monday,6,Special,1.47,Suburban,Sunny,31.49,On-time
+113,2025-02-17 18:12:30,Monday,18,Small,6.17,Rural,Windy,36.46,On-time
+114,2025-04-07 08:09:49,Monday,8,X-Large,3.98,Urban,Sunny,34.9,On-time
+115,2025-04-01 05:12:19,Tuesday,5,Large,45.69,Shopping Center,Rainy,70.05,On-time
+116,2025-04-16 06:51:31,Wednesday,6,Medium,39.34,Shopping Center,Snowy,63.63,On-time
+117,2025-02-22 14:36:56,Saturday,14,Special,47.38,Suburban,Rainy,87.06,On-time
+118,2025-03-21 15:51:34,Friday,15,X-Large,12.7,Urban,Sunny,45.63,On-time
+119,2025-01-18 04:24:15,Saturday,4,X-Large,37.14,Shopping Center,Rainy,61.27,On-time
+120,2025-02-08 16:21:32,Saturday,16,X-Large,48.62,Urban,Cloudy,69.44,On-time
+121,2025-04-10 19:05:34,Thursday,19,Special,2.44,Rural,Snowy,32.68,On-time
+122,2025-04-02 01:15:40,Wednesday,1,Medium,22.55,Suburban,Sunny,63.36,On-time
+123,2025-01-22 03:01:28,Wednesday,3,Small,48.66,Industrial,Cloudy,100.46,Delayed
+124,2025-04-13 13:50:36,Sunday,13,Small,35.91,Urban,Cloudy,64.47,On-time
+125,2025-03-15 07:54:46,Saturday,7,Large,34.25,Shopping Center,Rainy,76.62,On-time
+126,2025-03-18 13:27:59,Tuesday,13,Small,18.45,Urban,Rainy,49.23,On-time
+127,2025-03-07 00:04:56,Friday,0,Special,29.26,Urban,Rainy,61.16,On-time
+128,2025-03-12 17:12:52,Wednesday,17,Medium,7.98,Suburban,Cloudy,39.46,On-time
+129,2025-04-05 03:31:29,Saturday,3,X-Large,31.24,Rural,Sunny,68.07,On-time
+130,2025-03-17 23:35:48,Monday,23,X-Large,7.92,Shopping Center,Sunny,37.24,On-time
+131,2025-02-22 10:45:03,Saturday,10,Large,21.81,Rural,Sunny,57.95,On-time
+132,2025-01-19 20:36:10,Sunday,20,Small,10.76,Suburban,Sunny,44.93,On-time
+133,2025-04-13 22:36:23,Sunday,22,X-Large,30.98,Urban,Rainy,56.26,On-time
+134,2025-03-06 22:34:56,Thursday,22,Medium,4.24,Suburban,Sunny,35.67,On-time
+135,2025-02-16 19:19:13,Sunday,19,Large,8.26,Suburban,Cloudy,40.46,On-time
+136,2025-04-10 16:48:14,Thursday,16,X-Large,8.89,Urban,Cloudy,37.74,On-time
+137,2025-02-12 20:58:04,Wednesday,20,Large,30.92,Industrial,Rainy,57.63,On-time
+138,2025-02-17 06:23:47,Monday,6,Special,20.43,Shopping Center,Cloudy,52.79,On-time
+139,2025-02-16 07:13:01,Sunday,7,Medium,8.88,Shopping Center,Cloudy,37.86,On-time
+140,2025-04-09 01:02:43,Wednesday,1,Small,47.58,Suburban,Rainy,74.65,On-time
+141,2025-02-07 04:14:58,Friday,4,Medium,9.01,Industrial,Rainy,42.79,On-time
+142,2025-02-11 03:07:36,Tuesday,3,Small,24.55,Suburban,Cloudy,63.6,Delayed
+143,2025-02-09 22:16:36,Sunday,22,X-Large,23.78,Suburban,Sunny,60.21,On-time
+144,2025-03-04 05:16:08,Tuesday,5,Small,23.48,Urban,Cloudy,63.53,On-time
+145,2025-02-22 20:08:11,Saturday,20,Small,39.6,Industrial,Cloudy,85.92,Delayed
+146,2025-02-11 13:31:23,Tuesday,13,Medium,33.97,Rural,Windy,62.1,On-time
+147,2025-04-05 01:23:12,Saturday,1,Large,33.17,Urban,Sunny,59.11,On-time
+148,2025-03-07 20:27:18,Friday,20,Medium,43.48,Rural,Foggy,78.51,On-time
+149,2025-01-23 08:41:04,Thursday,8,Medium,14.6,Industrial,Sunny,49.49,On-time
+150,2025-01-26 20:36:22,Sunday,20,Large,1.03,Industrial,Cloudy,31.37,On-time
+151,2025-03-10 12:36:50,Monday,12,X-Large,11.73,Industrial,Windy,43.22,On-time
+152,2025-01-18 00:15:09,Saturday,0,Medium,28.0,Suburban,Sunny,70.84,On-time
+153,2025-03-16 15:51:20,Sunday,15,Special,7.64,Industrial,Cloudy,37.1,On-time
+154,2025-02-22 14:32:52,Saturday,14,Large,5.9,Urban,Rainy,35.15,On-time
+155,2025-04-08 11:59:49,Tuesday,11,Small,36.41,Rural,Rainy,66.22,On-time
+156,2025-03-23 08:48:07,Sunday,8,Large,41.83,Urban,Sunny,64.49,On-time
+157,2025-01-30 08:55:26,Thursday,8,Small,3.94,Urban,Cloudy,35.62,On-time
+158,2025-01-24 07:13:53,Friday,7,Large,44.04,Suburban,Rainy,79.3,On-time
+159,2025-03-17 06:52:33,Monday,6,Medium,44.97,Shopping Center,Sunny,90.82,On-time
+160,2025-01-20 09:03:01,Monday,9,Small,49.47,Industrial,Cloudy,98.07,Delayed
+161,2025-01-24 20:16:20,Friday,20,Small,39.94,Industrial,Sunny,67.65,Delayed
+162,2025-03-29 10:38:23,Saturday,10,Special,35.48,Suburban,Rainy,65.63,On-time
+163,2025-04-08 09:58:31,Tuesday,9,Small,26.93,Urban,Rainy,55.76,On-time
+164,2025-03-07 09:18:47,Friday,9,Small,2.09,Shopping Center,Rainy,32.99,On-time
+165,2025-01-22 05:59:01,Wednesday,5,Medium,7.42,Rural,Cloudy,39.52,On-time
+166,2025-02-14 07:46:16,Friday,7,Medium,11.69,Industrial,Rainy,46.16,On-time
+167,2025-03-28 20:14:15,Friday,20,Small,45.18,Suburban,Windy,77.86,On-time
+168,2025-02-18 09:47:22,Tuesday,9,X-Large,9.88,Suburban,Sunny,44.46,On-time
+169,2025-02-22 13:45:10,Saturday,13,Large,8.1,Urban,Rainy,38.39,On-time
+170,2025-02-25 01:36:28,Tuesday,1,Medium,24.82,Rural,Windy,63.09,On-time
+171,2025-04-17 02:34:53,Thursday,2,Medium,38.27,Rural,Windy,81.2,On-time
+172,2025-02-23 07:07:32,Sunday,7,Special,14.93,Shopping Center,Windy,44.19,On-time
+173,2025-02-12 13:06:47,Wednesday,13,Large,22.07,Industrial,Sunny,48.04,On-time
+174,2025-04-04 23:53:26,Friday,23,Medium,38.21,Rural,Windy,75.67,On-time
+175,2025-01-17 17:53:05,Friday,17,Small,10.07,Rural,Rainy,40.96,On-time
+176,2025-03-13 06:00:03,Thursday,6,Special,7.63,Suburban,Sunny,38.68,On-time
+177,2025-01-27 16:32:36,Monday,16,Medium,41.13,Industrial,Sunny,73.12,On-time
+178,2025-02-13 01:07:32,Thursday,1,Medium,42.39,Shopping Center,Snowy,64.77,On-time
+179,2025-04-14 04:00:39,Monday,4,Medium,10.43,Shopping Center,Sunny,44.81,On-time
+180,2025-02-22 11:23:11,Saturday,11,X-Large,42.04,Industrial,Sunny,63.96,On-time
+181,2025-02-15 12:46:14,Saturday,12,Small,8.09,Shopping Center,Cloudy,40.41,On-time
+182,2025-03-17 11:54:18,Monday,11,Large,16.08,Shopping Center,Sunny,49.3,On-time
+183,2025-02-09 04:50:13,Sunday,4,Small,29.19,Rural,Cloudy,57.96,On-time
+184,2025-02-06 19:29:41,Thursday,19,Special,48.35,Industrial,Sunny,88.21,On-time
+185,2025-03-27 12:36:34,Thursday,12,Small,8.59,Industrial,Windy,41.32,On-time
+186,2025-02-24 22:11:53,Monday,22,X-Large,21.5,Shopping Center,Cloudy,54.36,On-time
+187,2025-01-19 15:16:26,Sunday,15,Small,15.87,Urban,Sunny,46.79,On-time
+188,2025-02-22 10:54:28,Saturday,10,Medium,16.39,Shopping Center,Sunny,44.75,On-time
+189,2025-04-09 11:43:05,Wednesday,11,Medium,14.91,Urban,Windy,46.16,On-time
+190,2025-01-24 17:03:15,Friday,17,Large,17.67,Urban,Windy,46.24,On-time
+191,2025-01-18 11:42:51,Saturday,11,Small,28.05,Industrial,Windy,65.39,Delayed
+192,2025-03-27 05:47:41,Thursday,5,Medium,26.35,Urban,Sunny,57.71,On-time
+193,2025-03-06 18:50:10,Thursday,18,Small,3.21,Industrial,Rainy,34.19,On-time
+194,2025-03-17 06:33:11,Monday,6,Small,45.39,Suburban,Sunny,84.19,Delayed
+195,2025-04-08 10:00:34,Tuesday,10,Large,45.3,Urban,Rainy,75.29,On-time
+196,2025-02-20 10:36:22,Thursday,10,Small,32.77,Shopping Center,Snowy,61.99,On-time
+197,2025-04-10 22:55:51,Thursday,22,Small,1.18,Suburban,Rainy,31.4,On-time
+198,2025-03-07 00:16:21,Friday,0,Medium,21.29,Shopping Center,Rainy,60.38,On-time
+199,2025-02-01 02:47:48,Saturday,2,Medium,13.04,Urban,Rainy,45.9,On-time
+200,2025-02-06 10:28:41,Thursday,10,Medium,42.08,Urban,Rainy,84.61,On-time
+201,2025-01-28 13:57:45,Tuesday,13,Medium,40.92,Shopping Center,Sunny,75.38,On-time
+202,2025-02-18 12:49:28,Tuesday,12,Large,3.61,Rural,Sunny,35.39,On-time
+203,2025-01-18 01:47:14,Saturday,1,Large,22.65,Industrial,Sunny,50.47,On-time
+204,2025-03-17 06:49:18,Monday,6,Small,16.0,Shopping Center,Sunny,49.37,On-time
+205,2025-01-26 04:10:31,Sunday,4,Medium,1.97,Shopping Center,Windy,32.46,On-time
+206,2025-01-17 17:55:02,Friday,17,Small,25.13,Urban,Rainy,52.38,On-time
+207,2025-04-09 02:44:48,Wednesday,2,Small,9.49,Industrial,Rainy,42.29,On-time
+208,2025-02-22 19:22:22,Saturday,19,Medium,30.23,Urban,Cloudy,75.03,On-time
+209,2025-02-25 11:32:32,Tuesday,11,Special,16.83,Industrial,Cloudy,49.89,On-time
+210,2025-01-18 15:25:27,Saturday,15,Medium,27.1,Shopping Center,Rainy,69.79,On-time
+211,2025-04-01 04:51:48,Tuesday,4,Large,10.52,Suburban,Rainy,43.49,On-time
+212,2025-02-15 11:56:52,Saturday,11,X-Large,11.54,Rural,Cloudy,42.42,On-time
+213,2025-03-02 18:22:18,Sunday,18,Medium,4.19,Urban,Cloudy,35.63,On-time
+214,2025-03-11 04:04:58,Tuesday,4,Large,29.83,Industrial,Rainy,65.41,On-time
+215,2025-03-13 03:28:05,Thursday,3,Medium,4.2,Rural,Sunny,34.19,On-time
+216,2025-01-19 05:54:59,Sunday,5,Medium,35.56,Shopping Center,Cloudy,64.04,On-time
+217,2025-02-24 08:22:31,Monday,8,X-Large,31.51,Urban,Sunny,76.34,On-time
+218,2025-04-15 19:07:26,Tuesday,19,Medium,37.0,Industrial,Rainy,75.79,On-time
+219,2025-02-02 18:24:02,Sunday,18,Large,38.91,Industrial,Rainy,64.65,On-time
+220,2025-03-23 11:29:45,Sunday,11,Small,6.88,Industrial,Cloudy,38.17,On-time
+221,2025-03-23 02:53:36,Sunday,2,Medium,32.13,Industrial,Cloudy,73.23,On-time
+222,2025-02-22 22:29:01,Saturday,22,Medium,6.13,Urban,Cloudy,36.46,On-time
+223,2025-03-01 15:14:57,Saturday,15,X-Large,2.81,Rural,Rainy,33.8,On-time
+224,2025-02-10 19:04:51,Monday,19,X-Large,37.88,Industrial,Sunny,80.33,On-time
+225,2025-03-21 19:58:48,Friday,19,Small,44.04,Shopping Center,Sunny,88.68,On-time
+226,2025-04-01 19:42:42,Tuesday,19,Large,37.92,Shopping Center,Rainy,80.17,On-time
+227,2025-02-02 10:48:08,Sunday,10,Medium,1.61,Rural,Sunny,32.13,On-time
+228,2025-04-12 20:55:28,Saturday,20,Small,37.94,Urban,Sunny,63.85,On-time
+229,2025-02-09 08:32:08,Sunday,8,Small,28.01,Rural,Cloudy,54.22,On-time
+230,2025-03-15 15:07:58,Saturday,15,Large,23.68,Shopping Center,Windy,52.87,On-time
+231,2025-03-19 12:30:49,Wednesday,12,X-Large,40.17,Urban,Cloudy,81.79,On-time
+232,2025-02-09 22:23:17,Sunday,22,Medium,17.1,Urban,Sunny,47.93,On-time
+233,2025-01-19 18:51:56,Sunday,18,Medium,41.93,Shopping Center,Sunny,68.45,On-time
+234,2025-03-22 13:01:42,Saturday,13,X-Large,15.15,Suburban,Rainy,43.9,On-time
+235,2025-03-27 01:09:51,Thursday,1,Small,1.35,Industrial,Cloudy,31.24,On-time
+236,2025-02-04 18:18:49,Tuesday,18,Special,43.97,Urban,Snowy,72.89,On-time
+237,2025-02-05 08:56:56,Wednesday,8,Medium,41.59,Rural,Rainy,76.47,On-time
+238,2025-03-22 02:50:44,Saturday,2,Medium,46.55,Industrial,Sunny,94.37,Delayed
+239,2025-03-19 16:02:56,Wednesday,16,Special,36.05,Urban,Rainy,61.82,On-time
+240,2025-03-20 03:40:55,Thursday,3,Large,11.03,Suburban,Sunny,46.54,On-time
+241,2025-01-24 00:33:38,Friday,0,Medium,13.79,Shopping Center,Sunny,44.8,On-time
+242,2025-04-15 10:54:03,Tuesday,10,Large,40.91,Industrial,Windy,78.08,On-time
+243,2025-02-24 09:01:36,Monday,9,Small,15.53,Shopping Center,Sunny,46.54,On-time
+244,2025-04-13 15:52:53,Sunday,15,Medium,28.7,Shopping Center,Cloudy,60.25,On-time
+245,2025-04-12 20:46:18,Saturday,20,Large,40.94,Rural,Sunny,68.32,On-time
+246,2025-01-26 21:36:28,Sunday,21,Small,35.33,Shopping Center,Cloudy,66.98,On-time
+247,2025-03-27 19:39:29,Thursday,19,Large,49.67,Rural,Windy,88.64,On-time
+248,2025-02-23 19:37:16,Sunday,19,X-Large,16.57,Suburban,Cloudy,50.46,On-time
+249,2025-03-15 05:19:34,Saturday,5,Special,23.74,Urban,Rainy,50.05,On-time
+250,2025-04-06 02:07:45,Sunday,2,X-Large,46.23,Rural,Cloudy,93.63,On-time
+251,2025-04-08 05:21:54,Tuesday,5,Special,46.35,Rural,Sunny,82.39,On-time
+252,2025-01-30 12:29:38,Thursday,12,Medium,48.23,Suburban,Rainy,76.05,On-time
+253,2025-04-11 11:03:17,Friday,11,Medium,15.06,Urban,Cloudy,47.15,On-time
+254,2025-03-06 02:28:11,Thursday,2,Special,6.14,Rural,Sunny,35.68,On-time
+255,2025-02-23 00:39:58,Sunday,0,Medium,21.59,Urban,Windy,52.71,On-time
+256,2025-03-11 17:21:25,Tuesday,17,Small,38.97,Rural,Sunny,61.92,On-time
+257,2025-03-18 15:41:27,Tuesday,15,Medium,46.45,Suburban,Rainy,69.45,On-time
+258,2025-03-11 14:11:34,Tuesday,14,Medium,37.47,Rural,Sunny,82.94,On-time
+259,2025-02-09 11:36:58,Sunday,11,Medium,26.35,Suburban,Cloudy,63.46,On-time
+260,2025-02-15 06:08:34,Saturday,6,X-Large,38.23,Shopping Center,Snowy,61.72,On-time
+261,2025-03-18 01:20:22,Tuesday,1,Medium,17.08,Urban,Sunny,49.05,On-time
+262,2025-03-29 11:52:16,Saturday,11,Large,27.08,Rural,Sunny,61.27,On-time
+263,2025-01-31 17:03:49,Friday,17,Medium,37.81,Suburban,Sunny,63.45,On-time
+264,2025-02-15 06:01:24,Saturday,6,Small,42.7,Industrial,Snowy,83.63,On-time
+265,2025-04-15 02:07:54,Tuesday,2,Large,38.55,Rural,Cloudy,67.21,On-time
+266,2025-01-19 19:08:26,Sunday,19,Medium,8.91,Shopping Center,Sunny,39.22,On-time
+267,2025-03-22 06:28:09,Saturday,6,X-Large,29.0,Rural,Windy,73.48,On-time
+268,2025-01-19 19:58:17,Sunday,19,Medium,42.45,Rural,Sunny,84.48,On-time
+269,2025-03-27 15:44:56,Thursday,15,Small,30.82,Suburban,Windy,57.77,On-time
+270,2025-03-26 08:35:09,Wednesday,8,Large,13.28,Urban,Sunny,44.7,On-time
+271,2025-02-26 12:57:40,Wednesday,12,Medium,40.87,Industrial,Sunny,64.73,On-time
+272,2025-03-24 05:36:38,Monday,5,Large,38.57,Urban,Cloudy,62.01,On-time
+273,2025-01-27 02:12:15,Monday,2,X-Large,34.87,Rural,Rainy,66.79,On-time
+274,2025-03-28 16:59:00,Friday,16,Medium,4.89,Shopping Center,Windy,36.69,On-time
+275,2025-03-14 01:40:46,Friday,1,Medium,24.34,Industrial,Sunny,57.63,On-time
+276,2025-02-08 20:16:49,Saturday,20,X-Large,18.05,Urban,Cloudy,51.29,On-time
+277,2025-03-18 08:16:49,Tuesday,8,Small,18.56,Shopping Center,Cloudy,54.28,On-time
+278,2025-02-17 17:53:47,Monday,17,Large,31.73,Urban,Windy,72.46,On-time
+279,2025-02-06 00:22:57,Thursday,0,Special,22.92,Urban,Rainy,63.84,On-time
+280,2025-02-20 22:28:18,Thursday,22,Medium,17.52,Urban,Sunny,54.74,On-time
+281,2025-03-23 23:10:56,Sunday,23,Large,6.76,Industrial,Rainy,39.05,On-time
+282,2025-03-22 18:29:52,Saturday,18,Large,25.41,Industrial,Cloudy,58.14,On-time
+283,2025-03-01 01:43:09,Saturday,1,Medium,19.96,Shopping Center,Cloudy,55.37,On-time
+284,2025-03-27 00:13:46,Thursday,0,Small,36.22,Urban,Sunny,59.5,On-time
+285,2025-02-24 07:00:50,Monday,7,X-Large,10.03,Industrial,Sunny,44.56,On-time
+286,2025-04-15 10:28:45,Tuesday,10,Large,33.43,Suburban,Windy,71.88,On-time
+287,2025-02-26 13:26:23,Wednesday,13,Small,13.66,Industrial,Sunny,45.95,Delayed
+288,2025-04-09 22:49:40,Wednesday,22,X-Large,49.16,Shopping Center,Cloudy,72.15,On-time
+289,2025-02-15 16:17:05,Saturday,16,Small,3.67,Shopping Center,Rainy,33.96,On-time
+290,2025-04-01 13:33:01,Tuesday,13,Small,31.45,Suburban,Sunny,68.01,Delayed
+291,2025-03-09 02:58:33,Sunday,2,Large,4.5,Industrial,Foggy,36.13,On-time
+292,2025-02-24 05:24:44,Monday,5,Special,17.21,Rural,Sunny,48.25,On-time
+293,2025-04-16 17:17:04,Wednesday,17,Large,8.35,Shopping Center,Sunny,40.99,On-time
+294,2025-04-12 12:18:26,Saturday,12,Large,40.33,Industrial,Sunny,77.68,On-time
+295,2025-04-15 00:04:24,Tuesday,0,Medium,6.01,Suburban,Cloudy,38.49,On-time
+296,2025-01-31 14:19:36,Friday,14,Medium,42.7,Rural,Rainy,88.21,On-time
+297,2025-01-25 07:23:21,Saturday,7,Medium,41.76,Shopping Center,Rainy,91.62,On-time
+298,2025-02-10 11:57:18,Monday,11,Medium,22.84,Shopping Center,Sunny,53.5,On-time
+299,2025-01-27 08:27:57,Monday,8,X-Large,45.74,Urban,Rainy,71.07,On-time
+300,2025-04-07 13:32:15,Monday,13,Medium,2.42,Suburban,Sunny,33.2,On-time
+301,2025-01-26 21:59:30,Sunday,21,Small,15.64,Urban,Cloudy,50.88,On-time
+302,2025-01-23 08:42:35,Thursday,8,Medium,44.68,Urban,Sunny,88.35,On-time
+303,2025-03-05 13:52:04,Wednesday,13,Medium,31.32,Suburban,Cloudy,61.77,On-time
+304,2025-02-10 09:34:10,Monday,9,Medium,3.48,Rural,Cloudy,33.15,On-time
+305,2025-03-28 15:50:29,Friday,15,Special,22.45,Suburban,Windy,50.82,On-time
+306,2025-01-20 01:47:14,Monday,1,Medium,34.57,Industrial,Cloudy,80.25,Delayed
+307,2025-01-29 05:25:44,Wednesday,5,Medium,29.71,Shopping Center,Sunny,56.34,On-time
+308,2025-03-26 05:35:31,Wednesday,5,X-Large,32.0,Industrial,Sunny,76.31,On-time
+309,2025-04-06 16:06:45,Sunday,16,Medium,26.0,Shopping Center,Sunny,61.28,On-time
+310,2025-02-12 03:45:08,Wednesday,3,X-Large,35.74,Rural,Sunny,63.75,On-time
+311,2025-01-28 04:00:55,Tuesday,4,X-Large,31.6,Shopping Center,Foggy,68.14,On-time
+312,2025-01-21 06:34:50,Tuesday,6,Large,36.64,Shopping Center,Cloudy,74.19,On-time
+313,2025-04-04 11:40:58,Friday,11,Small,24.82,Shopping Center,Windy,50.89,On-time
+314,2025-02-09 23:02:17,Sunday,23,Small,35.21,Industrial,Cloudy,80.63,Delayed
+315,2025-02-05 19:25:19,Wednesday,19,X-Large,18.67,Suburban,Rainy,46.28,On-time
+316,2025-01-25 23:03:09,Saturday,23,X-Large,7.43,Shopping Center,Windy,38.43,On-time
+317,2025-03-20 04:17:37,Thursday,4,Medium,10.47,Urban,Cloudy,41.28,On-time
+318,2025-03-20 19:12:58,Thursday,19,X-Large,47.69,Suburban,Windy,69.87,On-time
+319,2025-01-27 08:14:46,Monday,8,Medium,41.6,Rural,Rainy,80.05,On-time
+320,2025-04-10 22:22:52,Thursday,22,Small,23.12,Suburban,Rainy,51.98,On-time
+321,2025-01-25 09:42:41,Saturday,9,Medium,13.33,Shopping Center,Windy,48.54,On-time
+322,2025-02-19 13:55:16,Wednesday,13,Large,27.95,Industrial,Rainy,69.83,On-time
+323,2025-01-29 12:47:06,Wednesday,12,Medium,27.66,Urban,Sunny,53.69,On-time
+324,2025-04-14 00:07:58,Monday,0,Large,49.87,Suburban,Sunny,90.29,On-time
+325,2025-01-18 19:29:15,Saturday,19,Small,13.74,Suburban,Rainy,41.56,On-time
+326,2025-04-10 01:58:47,Thursday,1,Large,49.52,Rural,Sunny,87.31,On-time
+327,2025-03-24 04:59:06,Monday,4,Small,2.16,Rural,Cloudy,32.96,On-time
+328,2025-01-18 06:25:16,Saturday,6,Medium,7.73,Industrial,Sunny,36.75,On-time
+329,2025-03-15 07:32:01,Saturday,7,Large,9.46,Industrial,Rainy,42.19,On-time
+330,2025-01-21 06:17:43,Tuesday,6,Small,6.14,Suburban,Cloudy,37.38,On-time
+331,2025-02-05 12:30:00,Wednesday,12,Large,9.17,Industrial,Rainy,41.9,On-time
+332,2025-03-17 09:32:59,Monday,9,Medium,7.84,Shopping Center,Cloudy,38.09,On-time
+333,2025-02-25 04:05:17,Tuesday,4,Medium,6.36,Rural,Windy,37.78,On-time
+334,2025-04-16 22:21:14,Wednesday,22,Small,42.0,Industrial,Sunny,67.7,On-time
+335,2025-03-26 02:50:14,Wednesday,2,Small,38.12,Urban,Rainy,85.83,On-time
+336,2025-01-23 05:59:46,Thursday,5,Special,43.68,Shopping Center,Sunny,65.52,On-time
+337,2025-03-04 02:02:47,Tuesday,2,Large,13.54,Shopping Center,Windy,41.8,On-time
+338,2025-03-26 22:40:01,Wednesday,22,Medium,44.33,Rural,Windy,71.99,On-time
+339,2025-03-25 14:18:43,Tuesday,14,Medium,25.47,Suburban,Rainy,65.24,On-time
+340,2025-03-28 03:02:35,Friday,3,Large,2.94,Industrial,Rainy,33.57,On-time
+341,2025-03-29 10:54:12,Saturday,10,X-Large,29.37,Rural,Rainy,62.38,On-time
+342,2025-01-25 06:11:58,Saturday,6,Small,46.32,Rural,Rainy,84.8,On-time
+343,2025-01-25 14:15:21,Saturday,14,X-Large,23.94,Suburban,Sunny,57.94,On-time
+344,2025-02-13 05:27:52,Thursday,5,Large,22.76,Rural,Rainy,57.9,On-time
+345,2025-02-12 15:43:14,Wednesday,15,Large,5.79,Shopping Center,Sunny,38.54,On-time
+346,2025-02-15 19:14:52,Saturday,19,Small,34.21,Shopping Center,Sunny,60.58,On-time
+347,2025-04-13 06:42:41,Sunday,6,Small,1.94,Shopping Center,Sunny,32.19,On-time
+348,2025-03-22 20:36:16,Saturday,20,Medium,28.95,Rural,Windy,65.97,On-time
+349,2025-02-07 05:59:59,Friday,5,Large,28.89,Shopping Center,Rainy,72.03,On-time
+350,2025-04-03 11:14:52,Thursday,11,Large,5.16,Rural,Windy,35.64,On-time
+351,2025-01-20 20:23:41,Monday,20,Small,46.59,Industrial,Windy,80.62,Delayed
+352,2025-02-04 17:09:16,Tuesday,17,Medium,30.04,Suburban,Snowy,71.65,On-time
+353,2025-02-19 02:26:19,Wednesday,2,Small,37.59,Shopping Center,Rainy,74.43,On-time
+354,2025-03-14 05:27:31,Friday,5,Medium,25.13,Suburban,Sunny,64.81,On-time
+355,2025-03-25 18:15:35,Tuesday,18,Special,27.39,Suburban,Sunny,68.78,On-time
+356,2025-03-16 08:00:28,Sunday,8,Small,29.11,Industrial,Rainy,57.61,On-time
+357,2025-02-06 06:19:30,Thursday,6,Small,5.71,Shopping Center,Sunny,35.48,On-time
+358,2025-04-11 08:31:58,Friday,8,Large,37.65,Urban,Cloudy,83.14,On-time
+359,2025-03-27 20:26:53,Thursday,20,X-Large,25.58,Urban,Windy,53.45,On-time
+360,2025-02-11 23:13:40,Tuesday,23,Large,26.15,Industrial,Sunny,60.16,On-time
+361,2025-02-18 12:00:15,Tuesday,12,Medium,9.2,Suburban,Sunny,42.66,On-time
+362,2025-04-04 01:16:06,Friday,1,Medium,7.34,Rural,Windy,40.76,On-time
+363,2025-01-21 08:28:01,Tuesday,8,X-Large,11.18,Shopping Center,Cloudy,42.96,On-time
+364,2025-02-14 13:11:00,Friday,13,Large,41.79,Suburban,Sunny,66.16,On-time
+365,2025-01-19 11:08:35,Sunday,11,Large,9.42,Suburban,Windy,39.92,On-time
+366,2025-02-09 09:19:23,Sunday,9,X-Large,19.1,Urban,Cloudy,54.6,On-time
+367,2025-03-02 21:32:17,Sunday,21,Medium,18.67,Suburban,Windy,46.51,On-time
+368,2025-03-07 13:39:57,Friday,13,Medium,23.61,Industrial,Snowy,63.93,On-time
+369,2025-02-05 12:16:55,Wednesday,12,Small,28.26,Rural,Rainy,68.7,On-time
+370,2025-01-29 07:19:16,Wednesday,7,Large,47.88,Suburban,Sunny,96.99,On-time
+371,2025-03-24 03:50:30,Monday,3,Small,35.49,Urban,Cloudy,71.72,On-time
+372,2025-02-20 13:34:27,Thursday,13,Large,18.8,Rural,Cloudy,46.7,On-time
+373,2025-04-02 20:54:56,Wednesday,20,Small,7.01,Urban,Rainy,36.86,On-time
+374,2025-04-17 11:48:17,Thursday,11,Medium,43.42,Shopping Center,Sunny,77.77,On-time
+375,2025-02-19 09:34:19,Wednesday,9,Medium,36.69,Shopping Center,Rainy,75.72,On-time
+376,2025-02-09 22:45:10,Sunday,22,Small,38.3,Rural,Sunny,63.91,On-time
+377,2025-01-26 23:08:05,Sunday,23,Small,45.38,Shopping Center,Cloudy,73.09,On-time
+378,2025-02-03 01:26:55,Monday,1,Special,29.6,Rural,Foggy,70.41,On-time
+379,2025-03-15 15:27:13,Saturday,15,Small,49.62,Suburban,Windy,70.01,On-time
+380,2025-04-10 02:48:00,Thursday,2,X-Large,2.49,Shopping Center,Snowy,32.83,On-time
+381,2025-01-29 18:53:09,Wednesday,18,Medium,18.3,Urban,Rainy,55.98,On-time
+382,2025-03-31 16:17:56,Monday,16,Medium,19.67,Urban,Cloudy,53.67,On-time
+383,2025-01-31 22:54:35,Friday,22,Medium,44.03,Shopping Center,Rainy,67.22,On-time
+384,2025-02-16 10:27:37,Sunday,10,Small,27.08,Suburban,Cloudy,61.44,On-time
+385,2025-02-19 23:08:16,Wednesday,23,Medium,14.32,Shopping Center,Rainy,45.7,On-time
+386,2025-02-25 22:16:28,Tuesday,22,Small,3.37,Suburban,Cloudy,34.86,On-time
+387,2025-03-02 05:41:17,Sunday,5,Small,25.41,Shopping Center,Rainy,52.67,On-time
+388,2025-03-23 14:35:09,Sunday,14,Small,32.66,Urban,Cloudy,67.94,On-time
+389,2025-01-21 10:41:25,Tuesday,10,Small,29.99,Urban,Sunny,64.33,On-time
+390,2025-02-27 09:50:31,Thursday,9,Small,47.28,Industrial,Foggy,95.29,Delayed
+391,2025-01-24 13:59:33,Friday,13,Small,24.3,Rural,Rainy,50.6,On-time
+392,2025-04-07 10:33:14,Monday,10,Medium,43.62,Industrial,Sunny,91.57,Delayed
+393,2025-02-12 10:33:35,Wednesday,10,Medium,40.29,Industrial,Sunny,64.76,On-time
+394,2025-02-18 03:49:44,Tuesday,3,Special,8.31,Industrial,Sunny,39.75,On-time
+395,2025-03-02 16:37:53,Sunday,16,Medium,13.59,Shopping Center,Sunny,42.12,On-time
+396,2025-01-26 04:22:20,Sunday,4,Special,46.64,Shopping Center,Windy,97.27,On-time
+397,2025-02-27 15:44:05,Thursday,15,Small,24.91,Rural,Rainy,55.27,On-time
+398,2025-03-18 08:31:08,Tuesday,8,Medium,22.22,Urban,Cloudy,57.16,On-time
+399,2025-03-04 20:18:51,Tuesday,20,Medium,19.17,Suburban,Sunny,57.16,On-time
+400,2025-04-13 15:24:18,Sunday,15,Special,3.53,Rural,Cloudy,34.84,On-time
+401,2025-04-06 06:46:19,Sunday,6,Medium,26.68,Industrial,Windy,58.01,On-time
+402,2025-03-06 15:16:39,Thursday,15,Large,14.79,Industrial,Rainy,52.12,On-time
+403,2025-02-10 06:31:09,Monday,6,X-Large,17.26,Shopping Center,Cloudy,49.55,On-time
+404,2025-03-30 17:12:45,Sunday,17,Large,48.06,Suburban,Cloudy,90.11,On-time
+405,2025-02-28 00:07:17,Friday,0,Large,7.11,Industrial,Windy,36.43,On-time
+406,2025-01-30 01:19:10,Thursday,1,Medium,15.63,Industrial,Rainy,43.49,On-time
+407,2025-02-23 10:45:14,Sunday,10,X-Large,21.39,Suburban,Sunny,57.58,On-time
+408,2025-04-06 08:36:32,Sunday,8,X-Large,24.5,Suburban,Cloudy,61.98,On-time
+409,2025-02-09 21:52:29,Sunday,21,Medium,46.63,Industrial,Sunny,93.73,Delayed
+410,2025-02-22 11:30:12,Saturday,11,Medium,45.84,Suburban,Sunny,87.22,On-time
+411,2025-02-19 16:27:08,Wednesday,16,Medium,41.05,Shopping Center,Rainy,78.81,On-time
+412,2025-03-23 06:14:57,Sunday,6,Medium,25.47,Industrial,Sunny,66.43,Delayed
+413,2025-02-01 18:03:16,Saturday,18,Medium,37.7,Urban,Sunny,69.18,On-time
+414,2025-02-08 12:55:05,Saturday,12,Small,4.51,Rural,Cloudy,35.92,On-time
+415,2025-04-11 03:06:43,Friday,3,Small,32.16,Industrial,Rainy,58.68,On-time
+416,2025-03-15 07:33:24,Saturday,7,Small,7.86,Urban,Rainy,41.72,On-time
+417,2025-02-16 13:42:18,Sunday,13,X-Large,18.62,Suburban,Cloudy,50.7,On-time
+418,2025-04-16 16:44:09,Wednesday,16,Small,12.83,Shopping Center,Sunny,48.54,On-time
+419,2025-01-25 05:22:11,Saturday,5,Medium,17.92,Shopping Center,Cloudy,48.69,On-time
+420,2025-04-16 00:26:24,Wednesday,0,Small,48.0,Urban,Snowy,83.17,On-time
+421,2025-02-20 11:47:15,Thursday,11,Medium,10.3,Shopping Center,Cloudy,42.66,On-time
+422,2025-03-31 02:02:09,Monday,2,X-Large,3.55,Shopping Center,Sunny,35.28,On-time
+423,2025-03-17 04:07:54,Monday,4,Large,43.87,Shopping Center,Sunny,82.34,On-time
+424,2025-03-22 10:17:23,Saturday,10,Medium,17.51,Shopping Center,Sunny,54.96,On-time
+425,2025-03-28 10:09:35,Friday,10,Special,5.46,Shopping Center,Cloudy,36.11,On-time
+426,2025-03-30 06:06:16,Sunday,6,Medium,32.41,Suburban,Sunny,70.98,On-time
+427,2025-02-22 13:50:00,Saturday,13,Large,3.05,Shopping Center,Rainy,34.56,On-time
+428,2025-02-14 07:06:25,Friday,7,Medium,3.45,Shopping Center,Rainy,32.87,On-time
+429,2025-03-22 19:39:00,Saturday,19,Large,22.82,Shopping Center,Windy,56.08,On-time
+430,2025-03-14 17:23:27,Friday,17,Large,26.67,Urban,Windy,68.32,On-time
+431,2025-04-08 22:59:15,Tuesday,22,Medium,39.38,Industrial,Sunny,72.21,On-time
+432,2025-04-08 23:22:11,Tuesday,23,Special,2.66,Suburban,Sunny,33.41,On-time
+433,2025-03-03 10:54:59,Monday,10,Small,13.81,Rural,Rainy,41.39,On-time
+434,2025-02-05 22:11:25,Wednesday,22,Large,11.07,Industrial,Rainy,44.39,On-time
+435,2025-02-24 18:53:03,Monday,18,Large,27.68,Industrial,Cloudy,52.22,On-time
+436,2025-03-24 20:25:09,Monday,20,X-Large,41.85,Urban,Rainy,76.08,On-time
+437,2025-04-10 21:57:34,Thursday,21,Special,2.72,Industrial,Snowy,33.91,On-time
+438,2025-02-03 12:44:10,Monday,12,Medium,5.34,Rural,Sunny,36.82,On-time
+439,2025-03-15 01:55:53,Saturday,1,Large,5.38,Urban,Sunny,36.38,On-time
+440,2025-01-22 10:47:55,Wednesday,10,Special,30.18,Industrial,Sunny,60.79,On-time
+441,2025-03-16 06:33:14,Sunday,6,Large,36.14,Shopping Center,Rainy,78.67,On-time
+442,2025-02-19 21:20:05,Wednesday,21,Large,22.25,Industrial,Rainy,54.79,On-time
+443,2025-01-31 15:41:11,Friday,15,Medium,21.37,Shopping Center,Rainy,61.08,On-time
+444,2025-02-28 23:09:33,Friday,23,Large,28.61,Rural,Sunny,64.49,On-time
+445,2025-01-18 06:11:42,Saturday,6,Medium,33.54,Industrial,Sunny,58.69,On-time
+446,2025-03-26 13:17:08,Wednesday,13,Large,48.11,Rural,Windy,76.99,On-time
+447,2025-03-10 07:31:39,Monday,7,Large,49.68,Rural,Windy,87.19,On-time
+448,2025-02-01 02:23:57,Saturday,2,Special,18.79,Shopping Center,Rainy,55.07,On-time
+449,2025-03-01 02:42:12,Saturday,2,Small,20.77,Urban,Cloudy,55.29,On-time
+450,2025-03-25 20:34:36,Tuesday,20,Large,32.98,Shopping Center,Sunny,76.57,On-time
+451,2025-03-07 15:42:06,Friday,15,Small,14.82,Industrial,Snowy,49.57,On-time
+452,2025-03-14 21:40:21,Friday,21,X-Large,8.03,Rural,Cloudy,40.68,On-time
+453,2025-03-03 07:39:56,Monday,7,Small,5.82,Rural,Sunny,35.2,On-time
+454,2025-03-21 13:50:34,Friday,13,Large,24.72,Industrial,Rainy,57.58,On-time
+455,2025-03-06 11:10:41,Thursday,11,Medium,19.54,Suburban,Sunny,49.06,On-time
+456,2025-04-11 16:03:29,Friday,16,Medium,43.32,Rural,Rainy,89.22,On-time
+457,2025-02-28 07:46:44,Friday,7,Small,12.11,Industrial,Sunny,47.58,Delayed
+458,2025-04-01 22:45:50,Tuesday,22,Small,38.3,Suburban,Rainy,67.25,On-time
+459,2025-02-24 02:15:38,Monday,2,X-Large,1.52,Shopping Center,Sunny,32.09,On-time
+460,2025-01-28 17:12:42,Tuesday,17,Medium,5.99,Industrial,Cloudy,36.08,On-time
+461,2025-03-19 20:33:46,Wednesday,20,Medium,44.11,Shopping Center,Sunny,88.57,On-time
+462,2025-03-29 03:59:38,Saturday,3,Large,9.99,Shopping Center,Windy,41.07,On-time
+463,2025-01-22 10:13:40,Wednesday,10,X-Large,9.32,Suburban,Sunny,38.6,On-time
+464,2025-04-04 04:18:44,Friday,4,Medium,25.14,Rural,Sunny,51.78,On-time
+465,2025-02-23 05:24:56,Sunday,5,Medium,21.63,Industrial,Windy,49.32,On-time
+466,2025-03-16 06:07:49,Sunday,6,X-Large,15.99,Industrial,Rainy,50.02,On-time
+467,2025-02-05 09:58:29,Wednesday,9,Medium,19.59,Shopping Center,Rainy,47.82,On-time
+468,2025-04-06 12:39:53,Sunday,12,Large,23.25,Shopping Center,Sunny,62.2,On-time
+469,2025-04-08 08:35:20,Tuesday,8,Medium,12.06,Suburban,Sunny,41.46,On-time
+470,2025-02-18 18:51:40,Tuesday,18,Medium,14.21,Suburban,Rainy,47.0,On-time
+471,2025-03-28 22:54:40,Friday,22,Special,34.58,Urban,Sunny,74.64,On-time
+472,2025-04-14 09:37:03,Monday,9,Small,15.8,Rural,Rainy,51.65,On-time
+473,2025-03-14 00:54:27,Friday,0,Small,3.88,Suburban,Sunny,35.76,On-time
+474,2025-04-11 08:51:58,Friday,8,Large,39.65,Urban,Cloudy,77.51,On-time
+475,2025-04-16 06:49:55,Wednesday,6,Large,7.01,Shopping Center,Snowy,38.85,On-time
+476,2025-01-31 18:00:00,Friday,18,Large,14.69,Suburban,Foggy,50.28,On-time
+477,2025-02-15 15:05:30,Saturday,15,Medium,46.73,Suburban,Rainy,99.27,On-time
+478,2025-03-24 15:02:49,Monday,15,Special,14.39,Rural,Sunny,42.68,On-time
+479,2025-02-16 01:08:56,Sunday,1,X-Large,46.63,Urban,Cloudy,97.5,On-time
+480,2025-01-28 11:27:08,Tuesday,11,X-Large,9.54,Shopping Center,Sunny,39.85,On-time
+481,2025-02-02 22:59:30,Sunday,22,Medium,24.57,Suburban,Sunny,58.99,On-time
+482,2025-02-28 03:14:45,Friday,3,Medium,18.01,Suburban,Windy,49.07,On-time
+483,2025-03-21 16:52:13,Friday,16,Medium,12.47,Industrial,Sunny,42.83,On-time
+484,2025-03-06 18:20:47,Thursday,18,Large,24.99,Rural,Rainy,58.96,On-time
+485,2025-02-07 20:20:44,Friday,20,Medium,23.63,Shopping Center,Snowy,51.54,On-time
+486,2025-04-17 13:39:40,Thursday,13,Medium,38.43,Suburban,Sunny,67.44,On-time
+487,2025-03-07 03:00:33,Friday,3,X-Large,21.64,Urban,Rainy,52.56,On-time
+488,2025-02-16 07:34:53,Sunday,7,Medium,1.72,Rural,Cloudy,32.46,On-time
+489,2025-03-28 18:40:09,Friday,18,Small,19.49,Industrial,Windy,58.49,Delayed
+490,2025-02-06 10:34:14,Thursday,10,Large,9.56,Rural,Rainy,39.49,On-time
+491,2025-03-02 15:27:51,Sunday,15,Medium,30.81,Suburban,Sunny,57.32,On-time
+492,2025-02-19 11:18:56,Wednesday,11,Large,5.2,Industrial,Rainy,36.69,On-time
+493,2025-03-10 12:56:47,Monday,12,X-Large,6.11,Shopping Center,Windy,39.16,On-time
+494,2025-04-09 21:40:12,Wednesday,21,Small,36.26,Industrial,Cloudy,68.42,Delayed
+495,2025-01-31 18:25:40,Friday,18,Medium,29.03,Shopping Center,Foggy,64.65,On-time
+496,2025-03-04 04:08:04,Tuesday,4,Medium,29.63,Rural,Snowy,73.21,On-time
+497,2025-02-15 04:16:57,Saturday,4,Medium,24.01,Rural,Rainy,54.48,On-time
+498,2025-01-28 11:42:59,Tuesday,11,Large,38.51,Urban,Sunny,70.01,On-time
+499,2025-03-27 20:46:33,Thursday,20,Large,41.82,Shopping Center,Windy,79.46,On-time
+500,2025-03-02 13:01:33,Sunday,13,Medium,6.5,Suburban,Sunny,38.15,On-time
+501,2025-03-12 09:26:27,Wednesday,9,Large,34.41,Industrial,Windy,59.17,On-time
+502,2025-02-16 22:07:41,Sunday,22,Special,22.12,Rural,Cloudy,61.56,On-time
+503,2025-02-06 01:34:54,Thursday,1,Large,35.68,Shopping Center,Rainy,63.13,On-time
+504,2025-02-17 11:06:15,Monday,11,Medium,21.44,Urban,Cloudy,54.42,On-time
+505,2025-02-06 18:46:34,Thursday,18,X-Large,43.28,Urban,Sunny,79.02,On-time
+506,2025-03-04 09:14:35,Tuesday,9,Small,45.92,Shopping Center,Sunny,82.62,On-time
+507,2025-03-16 21:52:53,Sunday,21,Large,16.43,Industrial,Cloudy,49.17,On-time
+508,2025-03-02 17:07:28,Sunday,17,Small,29.01,Industrial,Cloudy,70.38,Delayed
+509,2025-04-02 10:54:52,Wednesday,10,X-Large,1.67,Rural,Windy,32.46,On-time
+510,2025-03-04 02:40:07,Tuesday,2,Large,48.53,Rural,Windy,91.99,On-time
+511,2025-04-06 12:49:52,Sunday,12,Large,15.8,Industrial,Sunny,44.41,On-time
+512,2025-04-02 19:28:12,Wednesday,19,X-Large,9.09,Shopping Center,Rainy,42.35,On-time
+513,2025-03-19 04:53:51,Wednesday,4,X-Large,39.91,Industrial,Windy,74.37,On-time
+514,2025-01-22 09:07:18,Wednesday,9,Large,13.3,Suburban,Sunny,48.99,On-time
+515,2025-03-16 08:42:00,Sunday,8,Large,28.45,Urban,Rainy,72.27,On-time
+516,2025-03-09 13:35:02,Sunday,13,Special,14.01,Shopping Center,Cloudy,44.74,On-time
+517,2025-04-01 17:14:50,Tuesday,17,Medium,18.35,Rural,Sunny,47.65,On-time
+518,2025-01-31 21:08:05,Friday,21,Large,20.39,Urban,Rainy,54.56,On-time
+519,2025-04-06 01:45:28,Sunday,1,Large,22.13,Shopping Center,Cloudy,53.56,On-time
+520,2025-03-18 12:28:06,Tuesday,12,Small,12.94,Shopping Center,Rainy,42.3,On-time
+521,2025-04-15 04:51:17,Tuesday,4,Small,40.0,Rural,Windy,84.38,On-time
+522,2025-01-21 20:05:24,Tuesday,20,X-Large,37.65,Suburban,Sunny,84.58,On-time
+523,2025-03-11 07:39:39,Tuesday,7,Large,49.19,Industrial,Sunny,99.73,On-time
+524,2025-01-22 11:18:28,Wednesday,11,Small,7.65,Shopping Center,Sunny,37.3,On-time
+525,2025-03-15 05:29:25,Saturday,5,Small,35.36,Rural,Rainy,77.01,On-time
+526,2025-01-21 14:31:54,Tuesday,14,Special,44.7,Rural,Sunny,88.9,On-time
+527,2025-01-27 11:42:22,Monday,11,Medium,32.07,Rural,Sunny,72.58,On-time
+528,2025-02-04 14:00:15,Tuesday,14,Medium,21.05,Urban,Sunny,54.2,On-time
+529,2025-03-09 00:59:52,Sunday,0,Medium,36.03,Industrial,Foggy,67.86,On-time
+530,2025-02-28 05:26:31,Friday,5,Medium,6.69,Urban,Snowy,37.31,On-time
+531,2025-02-14 23:02:37,Friday,23,Large,38.74,Suburban,Sunny,71.43,On-time
+532,2025-01-29 07:44:48,Wednesday,7,Special,37.78,Rural,Sunny,76.21,On-time
+533,2025-04-04 05:06:59,Friday,5,Small,29.75,Suburban,Sunny,59.92,On-time
+534,2025-02-01 10:53:07,Saturday,10,Small,33.24,Suburban,Cloudy,63.03,On-time
+535,2025-03-02 04:31:38,Sunday,4,X-Large,11.24,Urban,Rainy,46.02,On-time
+536,2025-04-01 20:53:32,Tuesday,20,Special,23.41,Rural,Rainy,57.62,On-time
+537,2025-03-30 11:46:22,Sunday,11,Large,20.45,Urban,Sunny,55.72,On-time
+538,2025-02-28 17:48:42,Friday,17,X-Large,34.66,Shopping Center,Sunny,77.16,On-time
+539,2025-03-14 11:39:49,Friday,11,Medium,24.45,Shopping Center,Windy,55.04,On-time
+540,2025-03-17 18:40:44,Monday,18,Medium,2.7,Shopping Center,Sunny,32.97,On-time
+541,2025-03-18 18:48:07,Tuesday,18,Large,34.78,Urban,Rainy,74.41,On-time
+542,2025-02-23 16:56:35,Sunday,16,Medium,10.76,Suburban,Cloudy,45.83,On-time
+543,2025-04-05 21:11:17,Saturday,21,X-Large,26.83,Urban,Snowy,56.87,On-time
+544,2025-03-20 13:43:15,Thursday,13,Small,15.51,Suburban,Windy,51.49,On-time
+545,2025-02-04 20:51:14,Tuesday,20,Small,29.85,Urban,Rainy,74.34,On-time
+546,2025-02-14 04:57:32,Friday,4,X-Large,31.49,Shopping Center,Rainy,55.52,On-time
+547,2025-01-31 09:38:32,Friday,9,Small,45.87,Industrial,Rainy,95.31,Delayed
+548,2025-02-17 02:39:01,Monday,2,Large,38.7,Shopping Center,Sunny,62.4,On-time
+549,2025-03-15 02:01:21,Saturday,2,Large,20.27,Rural,Rainy,54.91,On-time
+550,2025-01-30 17:08:51,Thursday,17,Small,49.03,Rural,Sunny,74.87,On-time
+551,2025-01-24 20:08:55,Friday,20,X-Large,18.45,Rural,Sunny,51.92,On-time
+552,2025-02-27 03:37:02,Thursday,3,Small,49.94,Shopping Center,Windy,74.18,On-time
+553,2025-01-30 05:07:31,Thursday,5,Medium,7.88,Industrial,Snowy,36.59,On-time
+554,2025-04-02 13:16:52,Wednesday,13,Small,16.29,Industrial,Rainy,48.16,On-time
+555,2025-03-14 23:55:35,Friday,23,Medium,19.73,Shopping Center,Sunny,57.09,On-time
+556,2025-01-30 14:15:38,Thursday,14,Special,6.04,Industrial,Rainy,36.54,On-time
+557,2025-01-30 06:14:28,Thursday,6,Small,39.87,Shopping Center,Snowy,64.89,On-time
+558,2025-04-09 07:11:31,Wednesday,7,X-Large,22.62,Rural,Rainy,61.22,On-time
+559,2025-01-21 04:26:17,Tuesday,4,X-Large,5.84,Shopping Center,Cloudy,36.38,On-time
+560,2025-03-12 06:27:40,Wednesday,6,Medium,47.23,Shopping Center,Sunny,83.35,On-time
+561,2025-03-17 03:03:59,Monday,3,Large,13.09,Suburban,Sunny,41.67,On-time
+562,2025-03-16 04:31:08,Sunday,4,X-Large,24.76,Suburban,Cloudy,51.2,On-time
+563,2025-01-24 02:17:25,Friday,2,X-Large,22.42,Rural,Snowy,60.36,On-time
+564,2025-02-17 14:22:27,Monday,14,Special,13.86,Shopping Center,Cloudy,41.79,On-time
+565,2025-01-31 09:02:21,Friday,9,Large,16.75,Shopping Center,Rainy,51.56,On-time
+566,2025-04-16 00:52:00,Wednesday,0,Medium,39.91,Industrial,Snowy,69.82,On-time
+567,2025-02-12 19:25:42,Wednesday,19,Medium,22.54,Industrial,Rainy,53.67,On-time
+568,2025-02-02 07:26:27,Sunday,7,Large,2.82,Shopping Center,Cloudy,33.77,On-time
+569,2025-03-09 13:21:12,Sunday,13,Small,6.19,Suburban,Cloudy,36.12,On-time
+570,2025-04-13 14:07:25,Sunday,14,Small,2.41,Rural,Cloudy,32.77,On-time
+571,2025-03-12 04:42:10,Wednesday,4,Small,18.13,Urban,Sunny,46.91,On-time
+572,2025-01-19 16:38:30,Sunday,16,Large,29.32,Industrial,Sunny,63.11,On-time
+573,2025-03-12 17:59:07,Wednesday,17,Medium,10.66,Shopping Center,Cloudy,40.49,On-time
+574,2025-04-16 20:17:00,Wednesday,20,Medium,28.57,Shopping Center,Sunny,62.97,On-time
+575,2025-04-13 03:26:26,Sunday,3,Small,20.62,Shopping Center,Sunny,48.33,On-time
+576,2025-02-23 16:29:22,Sunday,16,Large,22.23,Suburban,Cloudy,57.38,On-time
+577,2025-03-24 11:30:21,Monday,11,Special,29.53,Shopping Center,Cloudy,60.46,On-time
+578,2025-02-16 18:34:02,Sunday,18,Medium,18.38,Rural,Cloudy,53.58,On-time
+579,2025-04-14 19:59:14,Monday,19,X-Large,45.62,Shopping Center,Sunny,74.85,On-time
+580,2025-04-14 14:01:53,Monday,14,Small,9.84,Shopping Center,Sunny,43.0,On-time
+581,2025-04-05 14:05:18,Saturday,14,Small,21.12,Suburban,Rainy,51.29,On-time
+582,2025-01-23 17:31:28,Thursday,17,Large,29.77,Urban,Windy,57.66,On-time
+583,2025-01-26 21:56:43,Sunday,21,Medium,13.42,Rural,Cloudy,42.41,On-time
+584,2025-02-14 16:08:13,Friday,16,Small,30.9,Shopping Center,Cloudy,73.44,On-time
+585,2025-02-22 14:17:03,Saturday,14,Medium,14.94,Industrial,Rainy,44.89,On-time
+586,2025-02-27 15:57:03,Thursday,15,Small,23.49,Industrial,Rainy,50.29,On-time
+587,2025-04-16 18:59:23,Wednesday,18,X-Large,22.71,Shopping Center,Rainy,55.73,On-time
+588,2025-02-24 20:50:48,Monday,20,Medium,46.75,Rural,Cloudy,84.36,On-time
+589,2025-01-19 09:35:35,Sunday,9,Medium,35.62,Industrial,Sunny,64.45,On-time
+590,2025-03-26 09:43:12,Wednesday,9,Large,21.57,Shopping Center,Cloudy,52.59,On-time
+591,2025-03-24 20:31:15,Monday,20,Large,44.88,Shopping Center,Rainy,96.16,On-time
+592,2025-03-29 18:29:07,Saturday,18,Small,34.08,Urban,Sunny,62.45,On-time
+593,2025-03-21 06:53:20,Friday,6,Small,18.36,Shopping Center,Windy,46.02,On-time
+594,2025-01-25 03:37:20,Saturday,3,X-Large,18.79,Industrial,Foggy,55.33,On-time
+595,2025-04-12 07:03:37,Saturday,7,Special,7.41,Industrial,Windy,39.84,On-time
+596,2025-02-08 01:56:36,Saturday,1,Small,14.39,Industrial,Rainy,46.88,On-time
+597,2025-02-19 03:57:49,Wednesday,3,Small,20.71,Suburban,Rainy,53.53,On-time
+598,2025-02-04 21:56:09,Tuesday,21,Large,20.3,Rural,Cloudy,47.85,On-time
+599,2025-03-17 21:46:55,Monday,21,Special,41.03,Rural,Sunny,86.95,On-time
+600,2025-03-31 11:30:49,Monday,11,Large,19.09,Suburban,Windy,55.87,On-time
+601,2025-01-24 12:43:36,Friday,12,Medium,7.43,Rural,Rainy,39.08,On-time
+602,2025-02-15 01:10:03,Saturday,1,Large,31.67,Suburban,Rainy,56.48,On-time
+603,2025-04-09 05:08:12,Wednesday,5,Special,37.88,Rural,Rainy,64.43,On-time
+604,2025-03-07 11:08:41,Friday,11,Large,32.69,Suburban,Rainy,65.33,On-time
+605,2025-03-27 18:28:00,Thursday,18,Medium,47.07,Suburban,Windy,86.74,On-time
+606,2025-03-09 12:56:54,Sunday,12,X-Large,27.63,Urban,Windy,65.44,On-time
+607,2025-03-19 11:01:27,Wednesday,11,Small,28.87,Industrial,Cloudy,56.74,On-time
+608,2025-03-20 20:06:49,Thursday,20,Small,42.01,Industrial,Windy,80.13,Delayed
+609,2025-02-21 08:29:24,Friday,8,Medium,40.52,Rural,Sunny,70.85,On-time
+610,2025-02-03 18:54:38,Monday,18,X-Large,6.3,Rural,Windy,37.94,On-time
+611,2025-01-19 19:47:05,Sunday,19,Special,21.94,Industrial,Sunny,51.62,On-time
+612,2025-03-10 18:41:17,Monday,18,Medium,41.5,Rural,Cloudy,67.88,On-time
+613,2025-03-24 06:12:46,Monday,6,Large,42.04,Rural,Cloudy,82.51,On-time
+614,2025-04-07 05:17:06,Monday,5,X-Large,27.28,Urban,Cloudy,55.27,On-time
+615,2025-03-22 09:20:43,Saturday,9,Large,38.86,Industrial,Windy,65.68,On-time
+616,2025-04-09 04:57:07,Wednesday,4,Large,46.67,Industrial,Windy,76.51,On-time
+617,2025-02-12 12:22:43,Wednesday,12,Medium,32.28,Suburban,Sunny,76.33,On-time
+618,2025-03-17 05:04:28,Monday,5,Small,31.12,Shopping Center,Sunny,61.79,On-time
+619,2025-04-01 21:25:48,Tuesday,21,Large,26.97,Industrial,Rainy,52.67,On-time
+620,2025-03-17 10:06:41,Monday,10,Small,30.18,Industrial,Sunny,60.16,Delayed
+621,2025-01-25 14:12:28,Saturday,14,Medium,34.92,Urban,Sunny,70.43,On-time
+622,2025-03-08 23:30:42,Saturday,23,Small,28.2,Industrial,Sunny,63.31,Delayed
+623,2025-02-24 00:30:17,Monday,0,Medium,3.86,Shopping Center,Rainy,35.38,On-time
+624,2025-03-21 14:17:38,Friday,14,Large,5.52,Suburban,Rainy,37.21,On-time
+625,2025-03-17 14:11:58,Monday,14,Small,48.18,Industrial,Foggy,78.71,On-time
+626,2025-04-07 15:11:14,Monday,15,Large,39.15,Shopping Center,Sunny,79.38,On-time
+627,2025-03-06 19:31:09,Thursday,19,X-Large,41.34,Suburban,Cloudy,85.37,On-time
+628,2025-02-25 18:04:33,Tuesday,18,Medium,16.61,Rural,Foggy,46.58,On-time
+629,2025-01-21 01:21:23,Tuesday,1,X-Large,41.34,Urban,Cloudy,90.45,On-time
+630,2025-04-15 05:32:28,Tuesday,5,Medium,34.44,Rural,Windy,72.08,On-time
+631,2025-04-14 07:48:25,Monday,7,Large,40.48,Shopping Center,Sunny,75.75,On-time
+632,2025-04-08 03:44:06,Tuesday,3,Small,7.1,Rural,Sunny,40.54,On-time
+633,2025-03-10 03:14:08,Monday,3,Medium,2.72,Urban,Sunny,32.85,On-time
+634,2025-03-17 16:36:27,Monday,16,Small,3.94,Shopping Center,Sunny,34.84,On-time
+635,2025-03-01 18:04:06,Saturday,18,Special,5.51,Shopping Center,Rainy,37.45,On-time
+636,2025-02-07 22:23:59,Friday,22,Medium,7.78,Industrial,Windy,40.07,On-time
+637,2025-02-10 08:36:48,Monday,8,Small,1.26,Urban,Cloudy,31.35,On-time
+638,2025-03-27 15:05:15,Thursday,15,Special,47.14,Suburban,Windy,99.21,On-time
+639,2025-03-31 01:22:41,Monday,1,Special,8.48,Shopping Center,Sunny,37.6,On-time
+640,2025-01-19 18:25:04,Sunday,18,Special,22.63,Industrial,Sunny,54.58,On-time
+641,2025-01-27 16:51:42,Monday,16,Large,9.09,Urban,Sunny,37.59,On-time
+642,2025-01-30 00:15:23,Thursday,0,Medium,13.69,Urban,Rainy,45.32,On-time
+643,2025-02-19 06:23:58,Wednesday,6,X-Large,4.25,Rural,Rainy,33.66,On-time
+644,2025-01-21 23:10:47,Tuesday,23,Small,1.87,Suburban,Sunny,32.65,On-time
+645,2025-02-23 20:40:00,Sunday,20,Medium,30.67,Suburban,Cloudy,73.66,On-time
+646,2025-03-19 18:12:02,Wednesday,18,Small,3.39,Shopping Center,Sunny,34.45,On-time
+647,2025-01-19 19:17:58,Sunday,19,Small,34.74,Urban,Sunny,78.35,On-time
+648,2025-03-07 03:16:08,Friday,3,X-Large,1.09,Rural,Rainy,31.52,On-time
+649,2025-03-16 00:24:02,Sunday,0,Large,37.5,Rural,Rainy,78.98,On-time
+650,2025-02-01 21:55:33,Saturday,21,X-Large,27.58,Shopping Center,Sunny,67.71,On-time
+651,2025-03-14 22:28:22,Friday,22,X-Large,18.34,Industrial,Cloudy,50.46,On-time
+652,2025-03-29 10:28:48,Saturday,10,X-Large,43.18,Shopping Center,Rainy,84.61,On-time
+653,2025-03-24 06:59:52,Monday,6,X-Large,38.91,Suburban,Cloudy,61.29,On-time
+654,2025-02-25 20:11:10,Tuesday,20,Medium,4.21,Rural,Foggy,34.61,On-time
+655,2025-04-05 19:45:34,Saturday,19,Medium,15.78,Shopping Center,Cloudy,50.37,On-time
+656,2025-04-01 08:09:24,Tuesday,8,Special,14.48,Urban,Rainy,44.57,On-time
+657,2025-04-10 05:26:34,Thursday,5,X-Large,42.05,Industrial,Rainy,68.33,On-time
+658,2025-01-18 03:09:53,Saturday,3,Special,21.14,Industrial,Cloudy,57.86,On-time
+659,2025-02-27 23:21:31,Thursday,23,Small,34.32,Urban,Windy,65.27,On-time
+660,2025-01-22 23:35:11,Wednesday,23,Medium,44.84,Urban,Sunny,80.95,On-time
+661,2025-03-07 12:37:50,Friday,12,Small,15.31,Industrial,Rainy,51.78,On-time
+662,2025-03-26 23:42:32,Wednesday,23,Large,38.83,Urban,Windy,81.02,On-time
+663,2025-03-08 12:22:58,Saturday,12,Small,49.82,Industrial,Rainy,77.26,On-time
+664,2025-03-04 00:36:55,Tuesday,0,Medium,14.83,Industrial,Cloudy,46.45,On-time
+665,2025-03-29 15:10:41,Saturday,15,Small,7.06,Rural,Windy,40.21,On-time
+666,2025-02-26 22:27:01,Wednesday,22,Special,2.13,Suburban,Rainy,31.95,On-time
+667,2025-04-10 09:17:46,Thursday,9,Large,45.83,Urban,Cloudy,85.59,On-time
+668,2025-03-10 23:58:53,Monday,23,Medium,11.43,Shopping Center,Cloudy,46.75,On-time
+669,2025-01-22 08:58:28,Wednesday,8,Large,49.59,Rural,Sunny,96.04,On-time
+670,2025-01-27 14:19:41,Monday,14,Medium,10.74,Urban,Sunny,40.54,On-time
+671,2025-04-05 11:13:57,Saturday,11,Special,20.2,Suburban,Windy,55.24,On-time
+672,2025-02-26 11:42:29,Wednesday,11,Small,41.2,Shopping Center,Cloudy,66.13,On-time
+673,2025-02-21 18:15:06,Friday,18,Small,25.65,Industrial,Foggy,59.91,On-time
+674,2025-04-08 23:28:56,Tuesday,23,Small,24.54,Suburban,Sunny,65.4,Delayed
+675,2025-02-02 20:43:59,Sunday,20,Medium,31.42,Rural,Sunny,74.96,On-time
+676,2025-01-21 15:18:09,Tuesday,15,X-Large,23.99,Rural,Sunny,64.27,On-time
+677,2025-03-12 19:32:39,Wednesday,19,Special,20.17,Shopping Center,Cloudy,51.25,On-time
+678,2025-03-06 22:29:22,Thursday,22,Large,34.49,Industrial,Sunny,78.24,On-time
+679,2025-02-16 09:06:28,Sunday,9,Small,29.61,Industrial,Sunny,57.7,On-time
+680,2025-04-16 06:23:21,Wednesday,6,Special,15.01,Shopping Center,Snowy,47.53,On-time
+681,2025-03-25 23:36:20,Tuesday,23,Small,41.75,Industrial,Rainy,88.87,Delayed
+682,2025-03-11 17:37:11,Tuesday,17,Small,35.39,Shopping Center,Sunny,61.04,On-time
+683,2025-02-22 07:53:41,Saturday,7,Small,36.46,Suburban,Rainy,62.54,On-time
+684,2025-02-10 15:00:05,Monday,15,X-Large,29.86,Industrial,Sunny,66.11,On-time
+685,2025-02-21 22:10:25,Friday,22,Medium,41.43,Shopping Center,Foggy,84.58,On-time
+686,2025-03-26 13:41:18,Wednesday,13,Medium,15.2,Rural,Windy,45.35,On-time
+687,2025-04-08 12:03:16,Tuesday,12,X-Large,18.02,Rural,Cloudy,45.65,On-time
+688,2025-01-28 20:29:37,Tuesday,20,Large,10.27,Urban,Cloudy,41.06,On-time
+689,2025-04-17 12:03:52,Thursday,12,Large,10.15,Suburban,Sunny,40.31,On-time
+690,2025-03-05 20:16:43,Wednesday,20,Large,34.79,Shopping Center,Rainy,81.03,On-time
+691,2025-03-19 04:40:49,Wednesday,4,X-Large,46.85,Suburban,Windy,74.41,On-time
+692,2025-02-02 22:03:20,Sunday,22,Special,6.97,Shopping Center,Sunny,35.81,On-time
+693,2025-04-03 13:21:41,Thursday,13,Large,38.97,Rural,Rainy,65.35,On-time
+694,2025-02-27 14:56:55,Thursday,14,X-Large,22.74,Rural,Rainy,63.48,On-time
+695,2025-04-12 09:04:58,Saturday,9,Large,21.44,Shopping Center,Sunny,59.29,On-time
+696,2025-03-24 09:52:39,Monday,9,Small,29.9,Industrial,Rainy,65.49,On-time
+697,2025-02-20 22:00:27,Thursday,22,Medium,3.93,Suburban,Sunny,33.21,On-time
+698,2025-01-29 06:31:03,Wednesday,6,Small,48.22,Urban,Sunny,85.08,On-time
+699,2025-01-19 18:50:50,Sunday,18,Small,38.84,Shopping Center,Sunny,82.8,On-time
+700,2025-01-21 04:24:30,Tuesday,4,X-Large,16.48,Suburban,Cloudy,50.7,On-time
+701,2025-01-30 14:58:35,Thursday,14,Medium,34.76,Urban,Rainy,68.21,On-time
+702,2025-02-16 18:00:25,Sunday,18,X-Large,6.9,Suburban,Cloudy,38.46,On-time
+703,2025-02-06 14:52:26,Thursday,14,Medium,20.09,Rural,Sunny,46.29,On-time
+704,2025-03-26 03:29:30,Wednesday,3,Special,5.68,Shopping Center,Rainy,38.01,On-time
+705,2025-02-18 16:34:07,Tuesday,16,Medium,22.73,Urban,Rainy,61.06,On-time
+706,2025-03-19 10:30:51,Wednesday,10,Small,47.55,Industrial,Cloudy,98.5,Delayed
+707,2025-02-05 06:18:28,Wednesday,6,Medium,28.72,Rural,Rainy,72.01,On-time
+708,2025-02-15 08:00:35,Saturday,8,Small,22.42,Shopping Center,Cloudy,51.92,On-time
+709,2025-03-31 23:40:49,Monday,23,Small,49.73,Rural,Cloudy,71.4,On-time
+710,2025-01-31 09:47:27,Friday,9,Special,19.24,Industrial,Rainy,55.01,On-time
+711,2025-04-02 22:28:52,Wednesday,22,Small,5.62,Suburban,Foggy,37.65,On-time
+712,2025-01-23 18:31:15,Thursday,18,Large,2.46,Rural,Cloudy,33.67,On-time
+713,2025-02-25 22:27:48,Tuesday,22,Medium,26.88,Shopping Center,Cloudy,68.69,On-time
+714,2025-01-20 05:08:17,Monday,5,Medium,29.12,Industrial,Cloudy,60.58,On-time
+715,2025-02-15 03:21:04,Saturday,3,Medium,31.18,Rural,Rainy,60.74,On-time
+716,2025-01-19 09:41:07,Sunday,9,Medium,4.73,Rural,Sunny,37.01,On-time
+717,2025-02-20 18:18:40,Thursday,18,Large,7.02,Shopping Center,Snowy,36.76,On-time
+718,2025-04-15 18:53:01,Tuesday,18,Medium,6.43,Industrial,Rainy,39.23,On-time
+719,2025-01-19 19:50:08,Sunday,19,Small,23.23,Industrial,Sunny,54.37,Delayed
+720,2025-02-26 05:32:19,Wednesday,5,Large,13.23,Industrial,Cloudy,41.07,On-time
+721,2025-02-20 03:03:35,Thursday,3,Small,4.97,Suburban,Cloudy,35.8,On-time
+722,2025-01-24 07:49:14,Friday,7,Small,14.38,Urban,Rainy,45.18,On-time
+723,2025-02-03 03:15:50,Monday,3,Special,1.54,Suburban,Cloudy,32.14,On-time
+724,2025-02-12 14:45:34,Wednesday,14,Small,30.99,Industrial,Sunny,66.18,Delayed
+725,2025-01-20 02:49:39,Monday,2,Large,46.38,Industrial,Cloudy,94.06,On-time
+726,2025-03-04 20:43:35,Tuesday,20,Special,20.57,Industrial,Sunny,48.25,On-time
+727,2025-02-06 21:06:51,Thursday,21,Large,16.99,Shopping Center,Cloudy,55.22,On-time
+728,2025-03-22 16:16:19,Saturday,16,X-Large,21.53,Industrial,Cloudy,48.92,On-time
+729,2025-03-06 19:32:06,Thursday,19,Medium,37.6,Shopping Center,Cloudy,83.68,On-time
+730,2025-02-23 20:14:24,Sunday,20,Large,5.62,Rural,Cloudy,36.61,On-time
+731,2025-02-24 22:23:37,Monday,22,Small,1.28,Urban,Cloudy,31.4,On-time
+732,2025-02-10 14:53:27,Monday,14,Special,3.44,Suburban,Sunny,33.61,On-time
+733,2025-03-07 23:15:39,Friday,23,Large,39.71,Rural,Rainy,76.85,On-time
+734,2025-03-11 18:32:15,Tuesday,18,X-Large,8.33,Suburban,Sunny,40.36,On-time
+735,2025-04-15 15:44:19,Tuesday,15,Medium,17.92,Industrial,Windy,46.74,On-time
+736,2025-01-20 20:09:50,Monday,20,Medium,25.55,Rural,Windy,61.58,On-time
+737,2025-02-06 17:49:19,Thursday,17,Medium,32.39,Shopping Center,Sunny,76.97,On-time
+738,2025-01-30 13:00:14,Thursday,13,X-Large,46.34,Industrial,Rainy,98.05,On-time
+739,2025-03-07 04:46:22,Friday,4,Large,39.36,Urban,Rainy,70.78,On-time
+740,2025-01-27 10:00:01,Monday,10,Large,6.78,Shopping Center,Sunny,37.91,On-time
+741,2025-02-08 19:09:12,Saturday,19,Small,36.46,Suburban,Cloudy,60.99,On-time
+742,2025-04-13 06:40:04,Sunday,6,Special,31.82,Suburban,Sunny,71.59,On-time
+743,2025-01-25 22:38:47,Saturday,22,Large,35.1,Industrial,Windy,66.14,On-time
+744,2025-02-26 04:40:01,Wednesday,4,Small,14.09,Urban,Cloudy,47.99,On-time
+745,2025-04-14 00:34:19,Monday,0,Medium,5.25,Industrial,Sunny,37.17,On-time
+746,2025-01-31 03:11:33,Friday,3,Small,35.16,Urban,Cloudy,79.1,On-time
+747,2025-04-15 02:49:54,Tuesday,2,X-Large,29.54,Rural,Cloudy,59.54,On-time
+748,2025-04-16 05:03:48,Wednesday,5,Medium,39.31,Shopping Center,Snowy,64.66,On-time
+749,2025-04-02 07:20:03,Wednesday,7,Small,3.03,Shopping Center,Windy,33.16,On-time
+750,2025-04-13 13:46:36,Sunday,13,Medium,2.14,Suburban,Cloudy,31.75,On-time
+751,2025-03-23 05:03:15,Sunday,5,X-Large,39.68,Urban,Rainy,87.79,On-time
+752,2025-02-15 05:07:27,Saturday,5,Large,23.45,Shopping Center,Snowy,56.88,On-time
+753,2025-03-30 05:27:28,Sunday,5,X-Large,3.21,Shopping Center,Sunny,34.53,On-time
+754,2025-02-06 01:35:36,Thursday,1,Small,12.61,Urban,Rainy,48.23,On-time
+755,2025-02-19 18:15:09,Wednesday,18,Small,33.17,Rural,Rainy,59.94,On-time
+756,2025-04-07 08:02:25,Monday,8,Large,9.98,Shopping Center,Sunny,41.5,On-time
+757,2025-02-06 08:13:42,Thursday,8,Medium,45.74,Shopping Center,Sunny,85.71,On-time
+758,2025-02-07 17:35:13,Friday,17,Small,28.56,Shopping Center,Sunny,57.65,On-time
+759,2025-03-07 04:27:31,Friday,4,Special,31.71,Suburban,Rainy,69.55,On-time
+760,2025-02-27 03:18:48,Thursday,3,Special,37.13,Urban,Windy,79.75,On-time
+761,2025-02-09 03:57:21,Sunday,3,Small,26.37,Suburban,Cloudy,53.79,On-time
+762,2025-03-10 20:18:21,Monday,20,X-Large,35.65,Industrial,Cloudy,66.8,On-time
+763,2025-03-15 13:33:02,Saturday,13,Large,8.99,Rural,Rainy,39.38,On-time
+764,2025-02-21 20:30:07,Friday,20,Special,10.11,Suburban,Foggy,44.39,On-time
+765,2025-03-07 12:03:35,Friday,12,Small,6.1,Urban,Rainy,38.59,On-time
+766,2025-02-09 23:30:03,Sunday,23,Large,16.17,Industrial,Cloudy,53.63,On-time
+767,2025-02-16 07:20:55,Sunday,7,Special,13.44,Rural,Cloudy,48.04,On-time
+768,2025-01-18 07:12:52,Saturday,7,Large,11.04,Rural,Windy,42.71,On-time
+769,2025-02-22 00:14:47,Saturday,0,Medium,32.49,Shopping Center,Snowy,64.55,On-time
+770,2025-03-28 03:00:17,Friday,3,Special,13.71,Shopping Center,Rainy,49.1,On-time
+771,2025-04-02 18:33:44,Wednesday,18,Medium,43.76,Industrial,Rainy,89.36,On-time
+772,2025-03-31 10:20:32,Monday,10,Special,14.56,Suburban,Windy,42.08,On-time
+773,2025-02-17 21:22:40,Monday,21,Small,29.86,Rural,Sunny,60.41,On-time
+774,2025-01-18 20:01:13,Saturday,20,Small,39.27,Industrial,Rainy,73.23,On-time
+775,2025-02-14 22:38:53,Friday,22,Small,45.32,Urban,Sunny,78.53,On-time
+776,2025-03-21 13:03:02,Friday,13,X-Large,11.36,Suburban,Rainy,42.68,On-time
+777,2025-02-06 22:24:39,Thursday,22,Medium,13.24,Industrial,Cloudy,43.17,On-time
+778,2025-01-18 20:14:39,Saturday,20,Small,11.48,Urban,Rainy,39.62,On-time
+779,2025-03-21 12:26:29,Friday,12,X-Large,6.04,Shopping Center,Rainy,35.61,On-time
+780,2025-04-12 01:09:05,Saturday,1,Small,6.56,Urban,Rainy,37.47,On-time
+781,2025-03-17 20:45:30,Monday,20,Large,21.88,Shopping Center,Sunny,51.52,On-time
+782,2025-04-17 00:30:48,Thursday,0,Large,26.72,Urban,Windy,65.64,On-time
+783,2025-03-09 17:19:12,Sunday,17,Medium,29.71,Industrial,Cloudy,71.44,On-time
+784,2025-03-21 02:45:18,Friday,2,Large,41.89,Rural,Windy,86.87,On-time
+785,2025-02-23 13:42:15,Sunday,13,Large,34.84,Urban,Sunny,63.08,On-time
+786,2025-02-28 07:00:39,Friday,7,Small,16.25,Suburban,Sunny,45.61,On-time
+787,2025-01-17 23:50:43,Friday,23,X-Large,23.23,Shopping Center,Foggy,57.07,On-time
+788,2025-02-22 12:05:51,Saturday,12,X-Large,19.15,Suburban,Sunny,52.14,On-time
+789,2025-03-01 06:53:58,Saturday,6,Medium,31.0,Rural,Rainy,67.41,On-time
+790,2025-02-01 19:36:01,Saturday,19,Medium,27.67,Urban,Sunny,54.75,On-time
+791,2025-03-02 02:42:32,Sunday,2,Medium,36.31,Urban,Rainy,62.74,On-time
+792,2025-03-28 06:18:20,Friday,6,Medium,34.14,Urban,Rainy,72.17,On-time
+793,2025-01-26 03:31:40,Sunday,3,Small,21.28,Urban,Windy,54.23,On-time
+794,2025-03-05 03:50:53,Wednesday,3,Medium,6.71,Shopping Center,Sunny,36.89,On-time
+795,2025-02-21 04:29:02,Friday,4,Large,34.47,Suburban,Sunny,79.52,On-time
+796,2025-02-03 05:48:41,Monday,5,Medium,23.07,Urban,Cloudy,54.89,On-time
+797,2025-03-19 01:26:38,Wednesday,1,Small,42.81,Industrial,Sunny,88.26,Delayed
+798,2025-04-14 09:01:42,Monday,9,X-Large,31.43,Industrial,Rainy,70.13,On-time
+799,2025-04-09 14:18:58,Wednesday,14,Medium,35.5,Suburban,Windy,75.17,On-time
+800,2025-03-23 22:41:34,Sunday,22,Small,46.58,Suburban,Rainy,88.07,On-time
+801,2025-01-28 16:32:14,Tuesday,16,Small,32.4,Shopping Center,Cloudy,73.11,On-time
+802,2025-04-07 08:40:12,Monday,8,Large,15.42,Shopping Center,Sunny,43.53,On-time
+803,2025-02-03 00:23:03,Monday,0,Large,44.59,Industrial,Foggy,68.18,On-time
+804,2025-03-05 01:51:45,Wednesday,1,Medium,33.18,Rural,Sunny,74.54,On-time
+805,2025-03-04 04:15:19,Tuesday,4,X-Large,29.37,Industrial,Snowy,73.82,On-time
+806,2025-01-18 20:15:14,Saturday,20,X-Large,45.88,Rural,Rainy,97.72,On-time
+807,2025-01-21 23:32:03,Tuesday,23,Medium,26.69,Suburban,Sunny,66.87,On-time
+808,2025-03-19 19:16:44,Wednesday,19,Large,47.53,Urban,Sunny,93.6,On-time
+809,2025-03-01 08:35:54,Saturday,8,Small,15.13,Industrial,Rainy,44.06,On-time
+810,2025-03-17 23:23:02,Monday,23,Medium,4.84,Rural,Sunny,35.29,On-time
+811,2025-03-27 15:00:26,Thursday,15,Special,43.95,Suburban,Windy,75.08,On-time
+812,2025-03-20 20:48:56,Thursday,20,Small,3.25,Suburban,Windy,34.61,On-time
+813,2025-03-30 18:29:27,Sunday,18,Small,47.85,Shopping Center,Cloudy,92.23,On-time
+814,2025-03-18 14:13:43,Tuesday,14,Small,42.48,Shopping Center,Rainy,70.24,On-time
+815,2025-02-24 23:04:11,Monday,23,X-Large,22.11,Suburban,Cloudy,59.05,On-time
+816,2025-02-05 10:30:57,Wednesday,10,Medium,13.84,Industrial,Rainy,46.52,On-time
+817,2025-04-07 02:46:41,Monday,2,Small,35.04,Shopping Center,Cloudy,65.1,On-time
+818,2025-04-17 06:02:01,Thursday,6,Special,17.81,Shopping Center,Sunny,54.55,On-time
+819,2025-03-26 20:53:07,Wednesday,20,X-Large,1.06,Suburban,Cloudy,31.49,On-time
+820,2025-03-31 10:38:25,Monday,10,Special,32.47,Rural,Windy,77.07,On-time
+821,2025-02-21 15:29:41,Friday,15,Medium,7.5,Shopping Center,Rainy,37.4,On-time
+822,2025-02-12 11:23:29,Wednesday,11,Special,10.41,Urban,Sunny,39.23,On-time
+823,2025-03-31 19:57:36,Monday,19,X-Large,10.78,Rural,Windy,39.7,On-time
+824,2025-03-23 17:08:09,Sunday,17,Special,19.61,Urban,Sunny,48.48,On-time
+825,2025-01-20 20:56:45,Monday,20,X-Large,5.14,Shopping Center,Windy,34.77,On-time
+826,2025-03-19 01:17:34,Wednesday,1,Large,2.06,Shopping Center,Sunny,32.01,On-time
+827,2025-02-19 04:21:18,Wednesday,4,Small,25.6,Urban,Rainy,65.53,On-time
+828,2025-02-05 17:21:45,Wednesday,17,Small,27.9,Rural,Sunny,69.35,On-time
+829,2025-04-11 03:51:37,Friday,3,Special,7.86,Shopping Center,Rainy,38.71,On-time
+830,2025-02-04 17:55:04,Tuesday,17,Special,32.28,Suburban,Snowy,66.83,On-time
+831,2025-04-17 09:18:24,Thursday,9,Large,23.93,Industrial,Rainy,52.11,On-time
+832,2025-01-31 18:50:29,Friday,18,Small,30.09,Rural,Foggy,71.36,On-time
+833,2025-03-24 17:32:00,Monday,17,Large,28.63,Rural,Sunny,53.24,On-time
+834,2025-03-18 05:59:12,Tuesday,5,Small,18.55,Suburban,Cloudy,49.23,On-time
+835,2025-02-21 23:12:33,Friday,23,X-Large,33.97,Rural,Foggy,75.78,On-time
+836,2025-02-18 16:29:39,Tuesday,16,Special,44.71,Industrial,Rainy,68.53,On-time
+837,2025-02-16 22:59:23,Sunday,22,Special,48.28,Rural,Cloudy,96.04,On-time
+838,2025-01-26 09:42:57,Sunday,9,Small,44.92,Suburban,Rainy,87.89,On-time
+839,2025-03-04 08:08:37,Tuesday,8,Medium,31.95,Shopping Center,Rainy,57.49,On-time
+840,2025-02-19 12:06:27,Wednesday,12,Medium,37.83,Suburban,Rainy,66.38,On-time
+841,2025-03-18 07:05:38,Tuesday,7,X-Large,24.85,Rural,Cloudy,58.22,On-time
+842,2025-04-07 14:53:43,Monday,14,Large,16.31,Industrial,Sunny,52.53,On-time
+843,2025-01-22 20:35:12,Wednesday,20,Large,29.49,Industrial,Sunny,71.48,On-time
+844,2025-04-07 06:58:33,Monday,6,Medium,35.72,Industrial,Cloudy,82.22,Delayed
+845,2025-03-30 20:20:25,Sunday,20,Large,24.99,Suburban,Sunny,65.14,On-time
+846,2025-04-13 16:10:01,Sunday,16,Medium,32.81,Shopping Center,Cloudy,66.2,On-time
+847,2025-02-15 07:41:11,Saturday,7,Small,10.49,Urban,Cloudy,43.28,On-time
+848,2025-04-10 18:52:52,Thursday,18,Small,35.3,Shopping Center,Cloudy,64.7,On-time
+849,2025-02-07 23:36:48,Friday,23,X-Large,39.03,Rural,Windy,86.25,On-time
+850,2025-03-23 23:58:49,Sunday,23,X-Large,36.74,Shopping Center,Rainy,80.18,On-time
+851,2025-02-28 09:34:16,Friday,9,Medium,18.16,Shopping Center,Sunny,48.01,On-time
+852,2025-02-21 14:17:35,Friday,14,Special,33.17,Urban,Rainy,62.84,On-time
+853,2025-02-17 13:59:09,Monday,13,Medium,37.05,Industrial,Windy,84.42,On-time
+854,2025-01-31 14:29:29,Friday,14,Large,30.09,Industrial,Rainy,56.28,On-time
+855,2025-03-24 20:55:26,Monday,20,Medium,30.49,Shopping Center,Rainy,72.28,On-time
+856,2025-03-27 04:05:18,Thursday,4,Medium,12.51,Shopping Center,Sunny,46.78,On-time
+857,2025-04-08 09:33:30,Tuesday,9,Large,43.6,Rural,Rainy,89.19,On-time
+858,2025-02-24 06:42:37,Monday,6,Small,21.22,Urban,Sunny,60.89,On-time
+859,2025-02-20 11:28:40,Thursday,11,Medium,28.09,Urban,Cloudy,57.12,On-time
+860,2025-02-09 21:26:50,Sunday,21,Large,30.54,Suburban,Sunny,69.7,On-time
+861,2025-03-14 22:11:26,Friday,22,Special,21.36,Urban,Cloudy,49.42,On-time
+862,2025-03-03 22:08:47,Monday,22,Small,42.63,Rural,Rainy,79.57,On-time
+863,2025-01-29 20:44:33,Wednesday,20,Small,26.79,Rural,Rainy,57.54,On-time
+864,2025-02-06 22:45:58,Thursday,22,Medium,2.58,Rural,Cloudy,32.08,On-time
+865,2025-02-28 03:59:12,Friday,3,X-Large,36.66,Rural,Windy,69.32,On-time
+866,2025-03-23 04:13:07,Sunday,4,Small,44.21,Rural,Rainy,87.05,On-time
+867,2025-03-19 05:11:57,Wednesday,5,Special,24.59,Rural,Windy,65.65,On-time
+868,2025-02-08 13:33:48,Saturday,13,X-Large,29.39,Urban,Cloudy,60.79,On-time
+869,2025-03-02 09:05:50,Sunday,9,Small,47.02,Urban,Cloudy,71.58,On-time
+870,2025-04-17 08:56:49,Thursday,8,Small,13.35,Industrial,Rainy,49.46,On-time
+871,2025-02-13 05:49:01,Thursday,5,Medium,16.34,Shopping Center,Rainy,48.73,On-time
+872,2025-01-20 22:31:56,Monday,22,Large,23.21,Urban,Windy,57.33,On-time
+873,2025-04-11 13:11:16,Friday,13,Small,43.01,Suburban,Cloudy,66.32,On-time
+874,2025-02-28 10:10:20,Friday,10,Small,10.2,Industrial,Sunny,44.37,Delayed
+875,2025-04-14 01:59:17,Monday,1,Special,33.84,Rural,Sunny,65.53,On-time
+876,2025-03-03 14:11:16,Monday,14,Large,32.0,Rural,Cloudy,77.58,On-time
+877,2025-03-21 04:58:21,Friday,4,Small,33.45,Urban,Windy,75.31,On-time
+878,2025-03-16 12:34:22,Sunday,12,Medium,22.09,Shopping Center,Cloudy,56.04,On-time
+879,2025-04-01 11:40:01,Tuesday,11,Medium,32.0,Shopping Center,Sunny,57.8,On-time
+880,2025-04-06 10:20:37,Sunday,10,Large,17.71,Shopping Center,Foggy,49.37,On-time
+881,2025-04-02 08:46:01,Wednesday,8,Large,5.81,Suburban,Windy,38.1,On-time
+882,2025-03-01 19:19:56,Saturday,19,Large,35.72,Industrial,Rainy,75.3,On-time
+883,2025-01-28 00:08:20,Tuesday,0,Small,19.32,Suburban,Cloudy,50.64,On-time
+884,2025-02-05 14:40:56,Wednesday,14,X-Large,39.05,Rural,Rainy,72.62,On-time
+885,2025-01-17 15:55:16,Friday,15,Large,4.38,Shopping Center,Rainy,34.39,On-time
+886,2025-01-30 14:11:13,Thursday,14,Small,38.95,Rural,Rainy,87.49,On-time
+887,2025-02-23 02:42:05,Sunday,2,Medium,37.19,Industrial,Sunny,85.01,Delayed
+888,2025-02-11 02:59:23,Tuesday,2,X-Large,44.86,Urban,Cloudy,77.86,On-time
+889,2025-03-18 06:24:50,Tuesday,6,Medium,3.1,Industrial,Cloudy,32.79,On-time
+890,2025-04-12 04:34:17,Saturday,4,Medium,9.09,Urban,Foggy,38.79,On-time
+891,2025-02-11 15:15:45,Tuesday,15,X-Large,11.1,Rural,Sunny,40.69,On-time
+892,2025-03-11 10:13:50,Tuesday,10,X-Large,48.64,Industrial,Sunny,81.68,On-time
+893,2025-04-03 11:11:26,Thursday,11,Large,33.44,Suburban,Windy,61.42,On-time
+894,2025-02-02 08:52:35,Sunday,8,Medium,6.04,Shopping Center,Cloudy,36.56,On-time
+895,2025-02-24 05:56:16,Monday,5,Medium,14.29,Suburban,Sunny,44.0,On-time
+896,2025-04-09 06:41:11,Wednesday,6,Special,13.39,Shopping Center,Rainy,42.04,On-time
+897,2025-04-07 11:38:14,Monday,11,Special,28.73,Shopping Center,Sunny,53.23,On-time
+898,2025-01-26 09:55:28,Sunday,9,Small,30.55,Shopping Center,Rainy,67.08,On-time
+899,2025-02-28 14:19:20,Friday,14,X-Large,32.01,Shopping Center,Windy,62.93,On-time
+900,2025-03-18 21:35:05,Tuesday,21,X-Large,42.62,Industrial,Sunny,88.14,On-time
+901,2025-04-14 17:48:50,Monday,17,Large,47.74,Shopping Center,Sunny,72.16,On-time
+902,2025-03-31 01:00:09,Monday,1,Large,19.07,Shopping Center,Sunny,50.52,On-time
+903,2025-01-26 20:54:50,Sunday,20,Small,47.93,Rural,Cloudy,74.64,On-time
+904,2025-01-30 01:41:13,Thursday,1,Medium,3.29,Suburban,Rainy,33.32,On-time
+905,2025-03-25 11:31:38,Tuesday,11,Special,17.94,Suburban,Rainy,53.06,On-time
+906,2025-02-18 15:57:18,Tuesday,15,Medium,16.68,Industrial,Sunny,53.16,On-time
+907,2025-02-10 20:11:14,Monday,20,Small,30.14,Industrial,Rainy,74.92,Delayed
+908,2025-02-28 21:29:20,Friday,21,Small,24.36,Urban,Sunny,51.61,On-time
+909,2025-01-26 06:54:55,Sunday,6,Special,27.73,Suburban,Windy,56.97,On-time
+910,2025-03-10 15:10:43,Monday,15,Small,13.13,Industrial,Windy,42.3,On-time
+911,2025-04-16 02:42:16,Wednesday,2,Small,47.98,Industrial,Snowy,83.21,On-time
+912,2025-02-07 02:05:18,Friday,2,Small,3.01,Industrial,Rainy,33.15,On-time
+913,2025-02-10 18:22:30,Monday,18,Large,5.55,Urban,Sunny,36.82,On-time
+914,2025-02-14 21:54:37,Friday,21,Large,49.05,Urban,Sunny,99.73,On-time
+915,2025-03-29 02:20:38,Saturday,2,Small,13.42,Suburban,Windy,43.7,On-time
+916,2025-03-24 18:02:19,Monday,18,X-Large,47.22,Shopping Center,Rainy,77.54,On-time
+917,2025-03-05 21:30:47,Wednesday,21,Small,8.09,Suburban,Rainy,40.66,On-time
+918,2025-01-31 06:52:46,Friday,6,Small,45.89,Urban,Rainy,96.38,On-time
+919,2025-03-23 18:42:51,Sunday,18,X-Large,8.37,Suburban,Sunny,40.82,On-time
+920,2025-02-11 11:06:13,Tuesday,11,Special,24.39,Urban,Cloudy,50.35,On-time
+921,2025-01-31 06:19:11,Friday,6,Large,33.79,Suburban,Rainy,76.5,On-time
+922,2025-04-11 14:11:43,Friday,14,Small,12.69,Shopping Center,Windy,47.72,On-time
+923,2025-04-12 15:34:51,Saturday,15,Small,23.58,Industrial,Sunny,56.3,Delayed
+924,2025-01-26 23:15:28,Sunday,23,Large,36.39,Urban,Cloudy,72.93,On-time
+925,2025-03-26 02:32:34,Wednesday,2,X-Large,12.35,Industrial,Rainy,44.38,On-time
+926,2025-01-19 15:57:44,Sunday,15,Large,15.34,Urban,Sunny,42.64,On-time
+927,2025-03-21 02:09:49,Friday,2,Large,44.7,Industrial,Windy,92.42,On-time
+928,2025-04-02 01:27:11,Wednesday,1,X-Large,3.41,Suburban,Sunny,34.01,On-time
+929,2025-04-10 23:04:57,Thursday,23,Medium,30.11,Shopping Center,Rainy,67.44,On-time
+930,2025-01-23 00:52:42,Thursday,0,Medium,22.08,Urban,Sunny,63.03,On-time
+931,2025-04-02 07:26:18,Wednesday,7,Special,14.78,Rural,Windy,44.49,On-time
+932,2025-03-01 02:28:40,Saturday,2,Large,5.97,Rural,Cloudy,36.21,On-time
+933,2025-03-15 20:07:43,Saturday,20,Small,45.45,Industrial,Foggy,93.27,Delayed
+934,2025-02-21 08:42:59,Friday,8,Special,1.8,Industrial,Sunny,32.17,On-time
+935,2025-03-03 11:46:14,Monday,11,X-Large,49.06,Urban,Rainy,101.86,On-time
+936,2025-03-10 15:27:41,Monday,15,Medium,42.21,Rural,Windy,84.03,On-time
+937,2025-02-25 23:55:06,Tuesday,23,Special,42.82,Industrial,Cloudy,66.39,On-time
+938,2025-01-26 10:38:37,Sunday,10,Large,49.5,Urban,Sunny,98.33,On-time
+939,2025-03-20 09:15:33,Thursday,9,Small,1.81,Shopping Center,Foggy,31.87,On-time
+940,2025-04-11 05:20:57,Friday,5,X-Large,4.38,Industrial,Rainy,35.28,On-time
+941,2025-02-21 05:20:07,Friday,5,X-Large,17.93,Urban,Sunny,53.46,On-time
+942,2025-01-25 22:15:24,Saturday,22,X-Large,38.73,Shopping Center,Windy,86.27,On-time
+943,2025-03-26 22:23:12,Wednesday,22,Medium,26.2,Rural,Windy,63.61,On-time
+944,2025-02-24 07:25:23,Monday,7,Large,40.66,Suburban,Sunny,76.43,On-time
+945,2025-01-21 19:02:38,Tuesday,19,Large,10.17,Urban,Sunny,44.81,On-time
+946,2025-03-14 10:09:47,Friday,10,Small,41.64,Shopping Center,Windy,75.73,On-time
+947,2025-03-31 14:32:58,Monday,14,Large,21.74,Industrial,Cloudy,47.72,On-time
+948,2025-03-16 19:55:40,Sunday,19,Medium,12.52,Urban,Cloudy,42.15,On-time
+949,2025-02-14 18:12:48,Friday,18,Small,40.8,Industrial,Cloudy,80.16,Delayed
+950,2025-01-19 19:49:21,Sunday,19,Medium,18.53,Shopping Center,Sunny,51.91,On-time
+951,2025-02-26 11:08:04,Wednesday,11,X-Large,19.57,Suburban,Cloudy,52.82,On-time
+952,2025-03-15 10:09:31,Saturday,10,Large,24.96,Shopping Center,Sunny,56.11,On-time
+953,2025-04-01 19:37:15,Tuesday,19,Small,42.3,Suburban,Rainy,66.24,On-time
+954,2025-03-18 23:13:26,Tuesday,23,Special,43.31,Rural,Rainy,72.77,On-time
+955,2025-01-22 22:31:00,Wednesday,22,Special,46.02,Shopping Center,Sunny,76.39,On-time
+956,2025-02-24 07:08:09,Monday,7,Large,42.7,Rural,Sunny,72.02,On-time
+957,2025-04-05 11:18:29,Saturday,11,Small,28.15,Urban,Windy,57.92,On-time
+958,2025-04-03 10:00:50,Thursday,10,Large,31.72,Suburban,Windy,74.36,On-time
+959,2025-01-31 17:59:45,Friday,17,Small,33.11,Suburban,Sunny,63.39,On-time
+960,2025-04-14 22:06:50,Monday,22,Medium,18.43,Urban,Windy,48.72,On-time
+961,2025-04-02 06:26:30,Wednesday,6,Small,37.84,Suburban,Windy,85.51,Delayed
+962,2025-02-12 01:41:41,Wednesday,1,X-Large,7.82,Industrial,Sunny,38.09,On-time
+963,2025-02-10 19:07:45,Monday,19,X-Large,13.9,Suburban,Sunny,44.68,On-time
+964,2025-02-28 04:47:19,Friday,4,Medium,16.2,Shopping Center,Snowy,47.73,On-time
+965,2025-04-07 02:47:38,Monday,2,Medium,29.05,Shopping Center,Cloudy,56.69,On-time
+966,2025-03-17 13:10:43,Monday,13,Special,13.67,Rural,Sunny,42.76,On-time
+967,2025-03-18 22:41:25,Tuesday,22,Small,34.34,Rural,Sunny,74.66,On-time
+968,2025-01-27 07:46:54,Monday,7,Small,35.04,Urban,Rainy,69.44,On-time
+969,2025-03-21 05:43:43,Friday,5,Medium,33.78,Shopping Center,Windy,71.62,On-time
+970,2025-02-05 04:08:04,Wednesday,4,Special,26.07,Suburban,Rainy,53.37,On-time
+971,2025-04-04 13:18:13,Friday,13,Small,5.53,Industrial,Sunny,36.99,On-time
+972,2025-03-24 03:42:20,Monday,3,Small,40.17,Rural,Cloudy,68.68,On-time
+973,2025-03-10 21:03:07,Monday,21,Large,15.1,Industrial,Cloudy,45.14,On-time
+974,2025-04-16 07:31:23,Wednesday,7,Medium,31.38,Rural,Sunny,66.84,On-time
+975,2025-02-22 10:27:54,Saturday,10,X-Large,25.21,Industrial,Sunny,60.92,On-time
+976,2025-03-03 01:43:37,Monday,1,Large,17.12,Rural,Windy,50.84,On-time
+977,2025-02-18 17:35:29,Tuesday,17,Medium,16.7,Industrial,Rainy,49.01,On-time
+978,2025-02-06 09:59:54,Thursday,9,Small,4.3,Industrial,Rainy,34.71,On-time
+979,2025-03-05 06:00:33,Wednesday,6,Medium,13.12,Urban,Rainy,44.98,On-time
+980,2025-02-01 06:39:40,Saturday,6,Large,43.55,Urban,Snowy,78.11,On-time
+981,2025-03-15 11:43:35,Saturday,11,Special,1.75,Industrial,Sunny,31.44,On-time
+982,2025-03-25 19:22:02,Tuesday,19,Large,33.68,Urban,Sunny,62.76,On-time
+983,2025-03-26 20:52:13,Wednesday,20,Medium,29.58,Urban,Cloudy,70.59,On-time
+984,2025-03-19 02:14:15,Wednesday,2,X-Large,4.49,Rural,Sunny,33.92,On-time
+985,2025-02-27 18:55:32,Thursday,18,Large,3.85,Industrial,Windy,33.37,On-time
+986,2025-02-02 17:35:57,Sunday,17,Medium,21.14,Suburban,Rainy,59.58,On-time
+987,2025-03-31 17:45:55,Monday,17,Special,39.44,Rural,Cloudy,74.43,On-time
+988,2025-02-10 11:34:28,Monday,11,Medium,23.1,Shopping Center,Sunny,51.25,On-time
+989,2025-02-22 01:26:44,Saturday,1,Large,4.3,Industrial,Snowy,34.52,On-time
+990,2025-04-02 14:37:14,Wednesday,14,X-Large,33.79,Industrial,Rainy,75.53,On-time
+991,2025-02-28 04:42:03,Friday,4,Medium,22.79,Shopping Center,Snowy,52.88,On-time
+992,2025-03-06 06:14:11,Thursday,6,Large,12.39,Urban,Sunny,47.87,On-time
+993,2025-02-17 01:32:27,Monday,1,Large,40.72,Suburban,Sunny,67.77,On-time
+994,2025-04-12 19:01:09,Saturday,19,Medium,15.61,Suburban,Sunny,50.49,On-time
+995,2025-02-21 14:41:44,Friday,14,Small,3.45,Suburban,Rainy,33.32,On-time
+996,2025-02-07 12:55:22,Friday,12,Medium,45.25,Suburban,Snowy,74.22,On-time
+997,2025-01-24 05:18:25,Friday,5,Special,27.31,Industrial,Snowy,63.07,On-time
+998,2025-03-01 20:26:33,Saturday,20,Large,36.6,Industrial,Rainy,73.26,On-time
+999,2025-03-20 19:58:05,Thursday,19,Small,28.18,Industrial,Windy,66.58,Delayed
+1000,2025-03-12 21:39:46,Wednesday,21,Medium,36.19,Rural,Cloudy,83.88,On-time
