@@ -1,6 +1,17 @@
-# SuperCourier - Mini ETL Pipeline
-# Starter code for the Data Engineering mini-challenge
+# %% [markdown]
+# # 📦 SuperCourier - Mini ETL Pipeline
+# 
+# Ce projet simule un pipeline ETL pour prédire les retards de livraison à partir de données générées artificiellement :
+# - Livraisons (base SQLite)
+# - Conditions météo (JSON)
+# - Timestamps simulés
+# 
+# 👉 Le pipeline suit l’ordre : **Extraction → Transformation → Chargement (ETL)**
 
+# %% [markdown]
+# ## 🔧 Importation des librairies et configuration du logger
+
+# %%
 import sqlite3
 import pandas as pd
 import numpy as np
@@ -17,12 +28,18 @@ logging.basicConfig(
 )
 logger = logging.getLogger('supercourier_mini_etl')
 
-# Constants
+# %% [markdown]
+# ## 📁 Définition des chemins de fichiers et constantes
+
+# %%
 DB_PATH = 'supercourier_mini.db'
 WEATHER_PATH = 'weather_data.json'
 OUTPUT_PATH = 'deliveries.csv'
 
-# 1. FUNCTION TO GENERATE SQLITE DATABASE
+# %% [markdown]
+# ## 🏗️ Étape 1 : Création de la base SQLite avec 1000 livraisons simulées
+
+# %%
 def create_sqlite_database():
     logger.info("Creating SQLite database...")
     if os.path.exists(DB_PATH):
@@ -62,7 +79,10 @@ def create_sqlite_database():
     logger.info(f"Database created with {len(deliveries)} deliveries")
     return True
 
-# 2. FUNCTION TO GENERATE WEATHER DATA
+# %% [markdown]
+# ## 🌤️ Étape 2 : Génération aléatoire des données météo pour chaque heure sur 90 jours
+
+# %%
 def generate_weather_data():
     logger.info("Generating weather data...")
     conditions = ['Sunny', 'Cloudy', 'Rainy', 'Windy', 'Snowy', 'Foggy']
@@ -86,7 +106,10 @@ def generate_weather_data():
     logger.info(f"Weather data generated for period {start_date.strftime('%Y-%m-%d')} - {end_date.strftime('%Y-%m-%d')}")
     return weather_data
 
-# 3. EXTRACTION FUNCTIONS
+# %% [markdown]
+# ## 🧪 Étape 3 : Extraction des données
+
+# %%
 def extract_sqlite_data():
     logger.info("Extracting data from SQLite database...")
     conn = sqlite3.connect(DB_PATH)
@@ -103,7 +126,10 @@ def load_weather_data():
     logger.info(f"Weather data loaded for {len(weather_data)} days")
     return weather_data
 
-# 4. TRANSFORMATION FUNCTIONS
+# %% [markdown]
+# ## 🔁 Étape 4 : Transformation et enrichissement des livraisons
+
+# %%
 def enrich_with_weather(df, weather_data):
     logger.info("Enriching with weather data...")
     df['pickup_datetime'] = pd.to_datetime(df['pickup_datetime'])
@@ -126,15 +152,10 @@ def transform_data(df_deliveries, weather_data):
     df['Actual_Delivery_Time'] = df['Distance'] * np.random.uniform(0.8, 1.5, size=len(df)) + 30
     df['Actual_Delivery_Time'] = df['Actual_Delivery_Time'].round(2)
 
-    pkg_factors = {
-        'Small': 1, 'Medium': 1.2, 'Large': 1.5, 'X-Large': 2, 'Special': 2.5
-    }
-    zone_factors = {
-        'Urban': 1.2, 'Suburban': 1, 'Rural': 1.3, 'Industrial': 0.9, 'Shopping Center': 1.4
-    }
-    weather_factors = {
-        'Sunny': 1, 'Cloudy': 1.05, 'Rainy': 1.2, 'Windy': 1.1, 'Snowy': 1.8, 'Foggy': 1.3
-    }
+    pkg_factors = {'Small': 1, 'Medium': 1.2, 'Large': 1.5, 'X-Large': 2, 'Special': 2.5}
+    zone_factors = {'Urban': 1.2, 'Suburban': 1, 'Rural': 1.3, 'Industrial': 0.9, 'Shopping Center': 1.4}
+    weather_factors = {'Sunny': 1, 'Cloudy': 1.05, 'Rainy': 1.2, 'Windy': 1.1, 'Snowy': 1.8, 'Foggy': 1.3}
+
     df['Base_Theoretical_Time'] = 30 + df['Distance'] * 0.8
     df['Adjustment_Factor'] = df['package_type'].map(pkg_factors) * \
                                df['delivery_zone'].map(zone_factors) * \
@@ -154,7 +175,10 @@ def transform_data(df_deliveries, weather_data):
                   'Distance', 'Delivery_Zone', 'Weather_Condition', 'Actual_Delivery_Time', 'Status']
     return df
 
-# 5. LOADING FUNCTION
+# %% [markdown]
+# ## 💾 Étape 5 : Sauvegarde des résultats au format CSV
+
+# %%
 def save_results(df):
     logger.info("Saving results...")
     logger.info(f"Number of records: {len(df)}")
@@ -164,7 +188,10 @@ def save_results(df):
     logger.info(f"Results saved to {OUTPUT_PATH}")
     return True
 
-# MAIN FUNCTION
+# %% [markdown]
+# ## ▶️ Exécution complète du pipeline
+
+# %%
 def run_pipeline():
     try:
         logger.info("Starting SuperCourier ETL pipeline")

@@ -52,5 +52,17 @@ python de-code.py
 
 
 =======
-# Projet_colis_jedha
+supercourier-etl/
+├── etl_pipeline.py # Script principal du pipeline
+├── deliveries.csv # Jeu de données généré (résultat final)
+├── weather_data.json # Données météo simulées
+├── supercourier_mini.db # Base SQLite des livraisons
+└── README.md # Ce fichier
+
+
+
+
+
+
+ Projet_colis_jedha
 >>>>>>> 4ecd5553b232cad2ef19d3a41408b4194599b14f
